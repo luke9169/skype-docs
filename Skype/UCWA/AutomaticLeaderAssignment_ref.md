@@ -1,4 +1,6 @@
-
+---
+title: AutomaticLeaderAssignment reference
+---
 # AutomaticLeaderAssignment
 
 

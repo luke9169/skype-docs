@@ -1,5 +1,7 @@
-
-# NoteType
+---
+title: User's NoteType reference
+---
+# NoteType reference 
 
 
 _** Applies to: **Skype for Business 2015_

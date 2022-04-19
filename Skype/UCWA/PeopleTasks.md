@@ -1,4 +1,7 @@
-
+---
+title: People tasks
+description: Look in this section for examples of tasks that pertain to the application user's contacts and groups.
+---
 # People tasks 
 Look in this section for examples of tasks that pertain to the application user's contacts and groups.
 

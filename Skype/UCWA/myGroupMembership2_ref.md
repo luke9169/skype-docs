@@ -1,3 +1,8 @@
+---
+title: myGroupMembership2
+description: Represents the version two of MyGroupMembershipResource, a group membership  of a single contact.
+---
+
 # myGroupMembership2
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the version two of MyGroupMembershipResource (a [group](group_ref.md)
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -34,7 +39,7 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contact|Represents a person or service that the user can communicate and collaborate with.|
@@ -45,10 +50,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -84,7 +88,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|OperationNotSupported|Indicates group membership for delegators group cannot be retrieved|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
@@ -211,7 +215,7 @@ None
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|MigrationInProgress|Indicates that the removal of groupMembership fails during migration|
 |NotFound|404|None|Indicates that the removal fails becuase the contact is not present in the particular group|

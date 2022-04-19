@@ -1,4 +1,7 @@
-# derivedMessaging
+---
+title: derivedMessaging reference
+---
+# derivedMessaging reference
 
  _**Applies to:** Skype for Business 2015_
 

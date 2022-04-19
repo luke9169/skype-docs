@@ -1,3 +1,7 @@
+---
+title: startOnlineMeeting reference
+description: The startOnlineMeeting resource in Skype for Business 2015 creates and joins an ad-hoc multiparty conversation.
+---
 # startOnlineMeeting
 
  _**Applies to:** Skype for Business 2015_
@@ -24,21 +28,17 @@ startOnlineMeeting allows an application to create and join an ad-hoc online mee
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 None
 
 ### Azure Active Directory scopes for online applications
 
 
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Meetings.ReadWrite|Create Skype Meetings|Allows the app to create Skype meetings on-behalf of the signed-in user|

@@ -16,9 +16,9 @@ DefaultScale for all Dialogs performance counters is 0, which means that the sca
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

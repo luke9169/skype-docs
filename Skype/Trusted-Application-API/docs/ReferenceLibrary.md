@@ -1,3 +1,6 @@
+---
+title: Trusted Application API reference
+---
 # **Trusted Application API** reference
 
 > [!NOTE] 

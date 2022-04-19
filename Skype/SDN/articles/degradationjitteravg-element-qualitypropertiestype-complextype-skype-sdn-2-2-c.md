@@ -1,5 +1,5 @@
 ﻿---
-title: DegradationJitterAvg element (QualityPropertiesType complexType) 
+title: DegradationJitterAvg element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: DegradationJitterAvg element
 ms:assetid: d53411a8-54d9-05a4-0417-cb22a9af26be
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404738(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationJitterAvg element 
+# DegradationJitterAvg element (QualityPropertiesType complexType) (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

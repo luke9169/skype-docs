@@ -1,3 +1,8 @@
+---
+title: videoFreeze
+description: videoFreeze represents a link resource to indicate local participant's video should be freezed.
+---
+
 # videoFreeze
 
  _**Applies to:** Skype for Business 2015_

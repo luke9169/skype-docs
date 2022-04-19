@@ -14,7 +14,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-A contact is a unified communication entity that is identified by a SIP URI. One or more contacts can be assembled into logical collections called groups. When a group is created, it is assigned a group ID, which is a server-assigned integer. The Contacts and Groups API in Microsoft Unified Communications Managed API 5.0 is available only for [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) objects.
+A contact is a unified communication entity that is identified by a SIP URI. One or more contacts can be assembled into logical collections called groups. When a group is created, it is assigned a group ID, which is a server-assigned integer. The Contacts and Groups API in Microsoft Unified Communications Managed API 5.0 is available only for [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint) objects.
 
 > [!NOTE]
 > The Contacts and Groups API is not available for [ApplicationEndpoint](https://msdn.microsoft.com/library/hh384825(v=office.16)) objects.
@@ -58,7 +58,7 @@ Adding a contact to your contact list does not automatically indicate that their
 
 ## Managing contacts and groups
 
-The [ContactGroupServices](https://msdn.microsoft.com/library/hh383122\(v=office.16\)) property on a [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) instance provides access to a [ContactGroupServices](https://msdn.microsoft.com/library/hh381099\(v=office.16\)) instance. The methods and properties on the **ContactGroupServices** instance can be used to manage the endpoint owner’s contacts and groups.
+The [ContactGroupServices](https://msdn.microsoft.com/library/hh383122\(v=office.16\)) property on a [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint) instance provides access to a [ContactGroupServices](https://msdn.microsoft.com/library/hh381099\(v=office.16\)) instance. The methods and properties on the **ContactGroupServices** instance can be used to manage the endpoint owner’s contacts and groups.
 
 > [!NOTE]
 > The [ApplicationEndpoint](https://msdn.microsoft.com/library/hh384825(v=office.16)) class has no **ContactGroupServices** property. Consequently, only a **UserEndpoint** instance can be used to manage contacts and groups.

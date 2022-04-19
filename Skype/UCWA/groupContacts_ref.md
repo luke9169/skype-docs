@@ -1,3 +1,8 @@
+---
+title: groupContacts
+description: A collection of contact resources that belong to a particular group resource.
+---
+
 # groupContacts
 
  _**Applies to:** Skype for Business 2015_

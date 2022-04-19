@@ -1,16 +1,17 @@
 ﻿---
-title: Codec element (QualityPropertiesType complexType) 
+title: Codec element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: Codec element (QualityPropertiesType complexType)
 ms:assetid: 512e40b7-1843-4751-3e2b-0816ece218a9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404721(v=office.16)
 ms:contentKeyID: 68250635
+description: Describes the last codec used for the media.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Codec element 
+# Codec element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

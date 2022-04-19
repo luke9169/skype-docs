@@ -1,5 +1,5 @@
 ﻿---
-title: Route element (MessageType complexType) 
+title: Route element (MessageType complexType) (Schema D)
 TOCTitle: Route element (MessageType complexType)
 ms:assetid: 031bb522-650f-fe6f-0dfd-a93c228cf5b1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170989(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Route element 
+# Route element (MessageType complexType)  (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,3 +1,8 @@
+---
+title: GenericPolicy
+description: An enumeration of generic policy values.
+---
+
 
 # GenericPolicy
 

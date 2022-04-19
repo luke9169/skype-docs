@@ -1,3 +1,8 @@
+---
+title: session
+description: Represents a session in a call.
+---
+
 # session
 
  _**Applies to:** Skype for Business 2015_

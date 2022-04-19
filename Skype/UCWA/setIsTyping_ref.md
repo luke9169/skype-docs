@@ -1,3 +1,8 @@
+---
+title: setIsTyping
+description: Sets the user's typing status in a conversation.
+---
+
 # setIsTyping
 
  _**Applies to:** Skype for Business 2015_

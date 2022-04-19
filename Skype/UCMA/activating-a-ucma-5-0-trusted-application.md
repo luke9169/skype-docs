@@ -45,8 +45,8 @@ Activation is needed not only for deploying a ready-to-ship application, but als
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -84,10 +84,10 @@ The following table summarizes the tasks that can be performed by the three diff
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

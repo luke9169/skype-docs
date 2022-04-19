@@ -1,3 +1,8 @@
+---
+title: onlineMeetingExtensions
+description: Represents the set of onlineMeetingExtensions for the associated onlineMeeting.
+---
+
 # onlineMeetingExtensions
 
  _**Applies to:** Skype for Business 2015_
@@ -29,17 +34,16 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |onlineMeetingExtension|Represents custom data for the associated [onlineMeeting](onlineMeeting_ref.md) that can be used by an application.|
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -76,7 +80,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -185,7 +189,7 @@ Creates a new [onlineMeetingExtension](onlineMeetingExtension_ref.md) for the as
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |id|The user-defined unique identifier for this extension.String|No|
 |type|A flag that indicates the intended purpose of this extension.(OnlineMeetingExtensionType)Undefined, RoamedOrganizerData, or RoamedParticipantData|No|
@@ -194,7 +198,7 @@ Creates a new [onlineMeetingExtension](onlineMeetingExtension_ref.md) for the as
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[onlineMeetingExtension](OnlineMeetingExtension_ref.md)|Represents custom data for the associated [onlineMeeting](onlineMeeting_ref.md) that can be used by an application.|
 
@@ -204,7 +208,7 @@ Creates a new [onlineMeetingExtension](onlineMeetingExtension_ref.md) for the as
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|
 |Conflict|409|AlreadyExists|The already exists error.|

@@ -1,4 +1,6 @@
-
+---
+title: ContactType reference
+---
 # ContactType
 
 

@@ -1,5 +1,5 @@
 ﻿---
-title: ResponseCode element (ErrorProperties complexType) 
+title: ResponseCode element (ErrorProperties complexType) (Schema C)
 TOCTitle: ResponseCode element (ErrorProperties complexType)
 ms:assetid: fe089740-a4c2-959a-3d9c-3e94b69cbe91
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404840(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponseCode element 
+# ResponseCode element (ErrorProperties complexType) (Schema C)
 
 (ErrorProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +56,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

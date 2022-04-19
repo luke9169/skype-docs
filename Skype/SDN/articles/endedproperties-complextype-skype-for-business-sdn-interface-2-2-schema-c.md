@@ -1,5 +1,5 @@
 ﻿---
-title: EndedProperties complexType 
+title: EndedProperties complexType (Schema C) 
 TOCTitle: EndedProperties complexType
 ms:assetid: 1a4ba994-1635-f7a6-dce5-6c2328b07aed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429349(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndedProperties complexType 
+# EndedProperties complexType (SChema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 

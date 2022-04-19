@@ -1,5 +1,5 @@
 ﻿---
-title: TenantId element (ErrorEndPointType complexType) 
+title: TenantId element (ErrorEndPointType complexType) (Schema D)
 TOCTitle: TenantId element (ErrorEndPointType complexType)
 ms:assetid: 3e2e6d6d-7854-9828-209a-545bbc8707f2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171005(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# TenantId element 
+# TenantId element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

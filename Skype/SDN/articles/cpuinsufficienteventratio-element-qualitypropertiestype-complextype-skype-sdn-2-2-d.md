@@ -1,5 +1,5 @@
 ﻿---
-title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) 
+title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: CPUInsufficientEventRatio element
 ms:assetid: cb4521ca-6f1e-ea8a-1437-90f45ca0eac1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149462(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CPUInsufficientEventRatio element 
+# CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

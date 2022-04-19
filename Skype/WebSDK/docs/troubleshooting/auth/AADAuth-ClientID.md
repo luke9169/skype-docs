@@ -1,3 +1,8 @@
+---
+title: AAD Auth Failures - Providing incorrect client ID
+description: This article discusses AAD Auth Failures - Providing incorrect client ID.
+---
+
 # AAD Auth Failures - Providing incorrect client ID
 
 _"Application with identifier <...> was not found in the directory <...>"_

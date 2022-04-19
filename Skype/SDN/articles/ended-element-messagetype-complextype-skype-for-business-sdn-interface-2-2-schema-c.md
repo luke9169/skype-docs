@@ -1,5 +1,5 @@
 ﻿---
-title: Ended element (MessageType complexType) 
+title: Ended element (MessageType complexType) (Schema C) 
 TOCTitle: Ended element
 ms:assetid: a5910d3e-5fd6-326e-4fa1-33697da7c879
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404753(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Ended element 
+# Ended element (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

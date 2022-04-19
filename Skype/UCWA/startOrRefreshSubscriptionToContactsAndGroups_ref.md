@@ -1,3 +1,8 @@
+---
+title: startOrRefreshSubscriptionToContactsAndGroups
+description: startOrRefreshSubscriptionToContactsAndGroups starts or refreshes the subscription to a user's contacts and groups.
+---
+
 # startOrRefreshSubscriptionToContactsAndGroups
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Starts or refreshes the subscription to a user's contacts and groups.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -39,7 +44,8 @@ None
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -61,7 +67,7 @@ Starts or refreshes the subscription to a user's contacts and groups.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |duration|The desired length, in minutes, of the subscription.For a new subscription, the length will be used.For an existing subscription, the length will be added to the remaining duration. If this sum is greater than 30 minutes, 30 minutes will be used.The maximum value is 60 and the minimum value is 10|Yes|
 
@@ -71,7 +77,7 @@ Starts or refreshes the subscription to a user's contacts and groups.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |duration|The desired length, in minutes, of the subscription.For a new subscription, the length will be used.For an existing subscription, the length will be added to the remaining duration. If this sum is greater than 30 minutes, 30 minutes will be used.The maximum value is 60 and the minimum value is 10 |Yes|
 
@@ -79,7 +85,7 @@ Starts or refreshes the subscription to a user's contacts and groups.
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[myContactsAndGroupsSubscription](mycontactsandgroupssubscription_ref.md)|Represents the subscription to a user's contacts and groups.|
 
@@ -89,7 +95,7 @@ Starts or refreshes the subscription to a user's contacts and groups.
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to modify the contact list.|
 |Conflict|409|None|Conflict occurs when the resource is not in the proper state to accept the request.|

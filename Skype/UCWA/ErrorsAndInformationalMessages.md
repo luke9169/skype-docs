@@ -1,4 +1,6 @@
-
+---
+title: Errors and informational messages
+---
 # Errors and informational messages
 
 **Applies to**: Skype for Business 2015

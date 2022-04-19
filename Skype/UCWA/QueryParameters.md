@@ -1,4 +1,7 @@
-
+---
+title: Query Parameters
+description: Some UCWA 2.0 resources require requests that take query parameters.
+---
 # Query Parameters
 Some UCWA 2.0 resources require requests that take query parameters.
 

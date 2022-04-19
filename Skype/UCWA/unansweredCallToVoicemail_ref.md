@@ -1,3 +1,8 @@
+---
+title: unansweredCallToVoicemail
+description: Forward all incoming calls to the user's voicemail if she does not respond.
+---
+
 # unansweredCallToVoicemail
 
  _**Applies to:** Skype for Business 2015_

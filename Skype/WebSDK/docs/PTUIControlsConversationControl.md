@@ -1,4 +1,7 @@
-
+---
+title: Use the Skype Web Conversation Control in a webpage
+description: Learn how to use the Skype Web Conversation Control in a webpage.
+---
 # Use the Skype Web Conversation Control in a webpage
 
  _**Applies to:** Skype for Business 2015_

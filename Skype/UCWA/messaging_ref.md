@@ -1,3 +1,8 @@
+---
+title: messaging
+description: messaging represents the instant messaging modality in a conversation.
+---
+
 # messaging
 
  _**Applies to:** Skype for Business 2015_

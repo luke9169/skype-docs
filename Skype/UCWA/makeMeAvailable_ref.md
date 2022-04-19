@@ -1,3 +1,8 @@
+---
+title: makeMeAvailable
+description: Makes the user available for incoming communications.
+---
+
 # makeMeAvailable
 
  _**Applies to:** Skype for Business 2015_

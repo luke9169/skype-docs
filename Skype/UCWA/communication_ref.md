@@ -1,3 +1,8 @@
+---
+title: communication
+description: Represents the dashboard for communication capabilities.
+---
+
 # communication
 
  _**Applies to:** Skype for Business 2015_

@@ -1,5 +1,5 @@
 ﻿---
-title: Maximum element (BandwidthType complexType) 
+title: Maximum element (BandwidthType complexType) (Schema D)
 TOCTitle: Maximum element
 ms:assetid: a989552a-972f-ab92-daa7-a914b9abf6b0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170915(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Maximum element 
+# Maximum element (Schema D)
 
 (BandwidthType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,3 +1,6 @@
+---
+title: Trusted Application API samples - README
+---
 # Trusted Application API samples
 
 > [!NOTE] 

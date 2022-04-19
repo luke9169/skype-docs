@@ -1,5 +1,5 @@
 ﻿---
-title: Start element (MessageType complexType) 
+title: Start element (MessageType complexType) (Schema D)
 TOCTitle: Start element
 ms:assetid: 4b095bc8-9443-27a4-7581-35af289d5c8c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170998(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Start element 
+# Start element (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -122,11 +122,11 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

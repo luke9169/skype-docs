@@ -1,3 +1,8 @@
+---
+title: leaders
+description: leaders represents a view of the participants in the leader role in an onlineMeeting.
+---
+
 # leaders
 
  _**Applies to:** Skype for Business 2015_

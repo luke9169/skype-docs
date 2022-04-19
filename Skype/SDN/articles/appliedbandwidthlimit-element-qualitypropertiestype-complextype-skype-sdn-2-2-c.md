@@ -1,5 +1,5 @@
 ﻿---
-title: AppliedBandwidthLimit element (QualityPropertiesType complexType) 
+title: AppliedBandwidthLimit element (QualityPropertiesType complexType) Schema C 
 TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 0816b0a6-636e-ecd0-e69b-183fb8a95fde
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404699(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# AppliedBandwidthLimit element 
+# AppliedBandwidthLimit element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

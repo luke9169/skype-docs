@@ -1,3 +1,8 @@
+---
+title: delegator
+description: delegator represents the contact who is the delegator.
+---
+
 # delegator
 
  _**Applies to:** Skype for Business 2015_

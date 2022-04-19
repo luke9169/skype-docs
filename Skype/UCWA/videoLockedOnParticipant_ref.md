@@ -1,3 +1,8 @@
+---
+title: videoLockedOnParticipant
+description: videoLockedOnParticipant represents the participant on whom the video spotlight is locked in an onlineMeeting.
+---
+
 # videoLockedOnParticipant
 
  _**Applies to:** Skype for Business 2015_

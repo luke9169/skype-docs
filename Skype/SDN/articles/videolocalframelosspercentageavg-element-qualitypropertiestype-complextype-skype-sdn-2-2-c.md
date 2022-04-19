@@ -1,5 +1,5 @@
 ﻿---
-title: VideoLocalFrameLossPercentageAvg element (QualityPropertiesType complexType) 
+title: VideoLocalFrameLossPercentageAvg element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: VideoLocalFrameLossPercentageAvg element
 ms:assetid: 92a61861-f3b9-c9cc-79e4-b5d378568681
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429338(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# VideoLocalFrameLossPercentageAvg element 
+# VideoLocalFrameLossPercentageAvg element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

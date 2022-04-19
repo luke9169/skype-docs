@@ -1,5 +1,5 @@
 ﻿---
-title: DynamicCapabilityPercent element (QualityPropertiesType complexType) 
+title: DynamicCapabilityPercent element (QualityPropertiesType complexType) Schema C
 TOCTitle: DynamicCapabilityPercent element
 ms:assetid: 335706b3-8b4a-1404-5929-47e13fd4f4f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404749(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DynamicCapabilityPercent element 
+# DynamicCapabilityPercent element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

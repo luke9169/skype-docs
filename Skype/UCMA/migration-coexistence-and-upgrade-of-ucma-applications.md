@@ -14,11 +14,11 @@ mtps_version: v=office.16
 
 This section discusses the steps needed to enable UCMA 2.0, UCMA 3.0, and UCMA 4.0 applications to coexist in an environment with pools. It is expected that users homed on these different Communications Server/Lync Server pools will be able to communicate with these applications. This section also discusses the steps needed to migrate UCMA applications to newer versions of Lync Server, and to upgrade UCMA 2.0 or UCMA 3.0 applications to a UCMA 4.0 application.
 
-Before going further in the section, read [Activation, Provisioning, and Deployment Changes in UCMA 4.0](https://docs.microsoft.com/lync/ucma-sdk/activating-a-ucma-4-0-trusted-application), which should be considered a prerequisite to the material in this section. As applicable to your specific Lync Server topology, it is strongly recommended that you read one or both of the following topics in the Migration section of the Microsoft Lync Server 2013 documentation:
+Before going further in the section, read [Activation, Provisioning, and Deployment Changes in UCMA 4.0](/lync/ucma-sdk/activating-a-ucma-4-0-trusted-application), which should be considered a prerequisite to the material in this section. As applicable to your specific Lync Server topology, it is strongly recommended that you read one or both of the following topics in the Migration section of the Microsoft Lync Server 2013 documentation:
 
-- [Migration from Office Communications Server 2007 R2 to Lync Server 2013](https://docs.microsoft.com/lyncserver/migration-from-office-communications-server-2007-r2-to-lync-server-2013)
+- [Migration from Office Communications Server 2007 R2 to Lync Server 2013](/lyncserver/migration-from-office-communications-server-2007-r2-to-lync-server-2013)
 
-- [Migration from Lync Server 2010 to Lync Server 2013](https://docs.microsoft.com/lyncserver/migration-from-lync-server-2010-to-lync-server-2013)
+- [Migration from Lync Server 2010 to Lync Server 2013](/lyncserver/migration-from-lync-server-2010-to-lync-server-2013)
 
 An external UCMA 4.0 trusted application is an application developed by a third party, that is granted trusted status to run against Communications Server/Skype for Business Server 2015 and that runs on its own pool of computers. In this topic, the phrase UCMA 2.0 application should be interpreted to mean an external UCMA 2.0 trusted application. In the same way, a UCMA 3.0 application or UCMA 4.0 application should be interpreted to mean an external UCMA 3.0 or UCMA 4.0 trusted application, respectively. An application pool is the group of computers on which these external trusted applications run.
 

@@ -1,3 +1,6 @@
+---
+title: Skype for Business - Authentication using Azure Active Directory - AAD
+---
 # Authentication using Azure Active Directory (AAD)
 
  _**Applies to:** Skype for Business 2015_

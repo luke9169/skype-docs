@@ -1,3 +1,8 @@
+---
+title: Renegotiations
+description: Represents the collection of renegotiations.
+---
+
 # renegotiations
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the collection of renegotiations.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -34,7 +39,8 @@ None
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -57,7 +63,7 @@ Operation description coming soon...
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |operationId|Gets or sets operation id.The maximum length is 50 characters.|Yes|
 
@@ -67,7 +73,7 @@ Operation description coming soon...
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |sdp|The body that represents the SDP data.Array of Byte|No|
 
@@ -75,7 +81,7 @@ Operation description coming soon...
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[Renegotiation entity](audioVideoRenegotiation_ref.md)|Represents a single re-negotiation entity of a session entity. The entity will only showup in the event channel. When a client wants to initiate a re-negotiation, it uses application/sdpinstead of CommunicationRequest to do so.|
 
@@ -85,7 +91,7 @@ Operation description coming soon...
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Conflict|409|AlreadyExists|Another renegotiation is already in progress.|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|

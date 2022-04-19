@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 Authentication using Username and Password
+---
 # Authentication using Username and Password
 
  _**Applies to:** Skype for Business 2015_

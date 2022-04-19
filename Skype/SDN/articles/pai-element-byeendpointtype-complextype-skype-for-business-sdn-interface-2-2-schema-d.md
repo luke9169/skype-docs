@@ -1,5 +1,5 @@
 ﻿---
-title: PAI element (ByeEndPointType complexType) 
+title: PAI element (ByeEndPointType complexType) (Schema D)
 TOCTitle: PAI element (ByeEndPointType complexType)
 ms:assetid: e0dc6911-98ed-c074-c954-7b7a231767dd
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170936(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element 
+# PAI element (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,5 +1,5 @@
 ﻿---
-title: EndPoint element (ByeType complexType) 
+title: EndPoint element (ByeType complexType) (Schema D)
 TOCTitle: EndPoint element (ByeType complexType)
 ms:assetid: 0af8801d-8beb-57c7-e2e0-1ec2afe3de13
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170856(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element 
+# EndPoint element (ByeType complexType)(Business SDN Interface 2.2) (Schema D)
 
 (ByeType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

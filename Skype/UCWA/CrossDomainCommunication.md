@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 - Cross-domain communication
+---
 # Cross-domain communication
 Learn how to enable cross-domain communication for web applications.
 

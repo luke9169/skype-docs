@@ -1,3 +1,8 @@
+---
+title: audioVideo
+description: Represents the audio/video modality in the corresponding conversation.
+---
+
 # audioVideo
 
  _**Applies to:** Skype for Business 2015_

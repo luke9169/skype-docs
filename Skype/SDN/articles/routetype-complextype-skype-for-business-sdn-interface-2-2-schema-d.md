@@ -1,5 +1,5 @@
 ﻿---
-title: RouteType complexType 
+title: RouteType complexType (Schema D)
 TOCTitle: RouteType complexType
 ms:assetid: 64fcf40f-6a51-c719-2f9c-b14f6511d5e4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171072(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RouteType complexType 
+# RouteType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -24,8 +24,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +58,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

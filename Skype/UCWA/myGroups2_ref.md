@@ -1,3 +1,8 @@
+---
+title: myGroups2 reference
+description: The myGroups2 resource in Skype for Business 2015 is a collection of groups in the contact list of the logged-on user.
+---
+
 # myGroups2
 
  _**Applies to:** Skype for Business 2015_
@@ -30,8 +35,6 @@ None
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -51,9 +54,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -62,8 +64,6 @@ The user must have at least one of these scopes for operations on the resource t
 <a name="sectionSection2"></a>
 
 ### Added
-
-
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
@@ -74,7 +74,9 @@ The user must have at least one of these scopes for operations on the resource t
 |delegatesGroup|High|people|Delivered when a delegate group is added to my groups.</p><p></p>|
 |delegatorsGroup|High|people|Delivered when a delegator group is added to my groups.</p><p></p>|
 |myOrganizationGroup|Low|people|Delivered when MyOrganizationGroup is added to my groups.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -109,13 +111,13 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |delegatorsGroup|High|people|Delivered when a delegator group is updated in my groups.</p><p></p>|
 |myOrganizationGroup|Low|people|Delivered when a MyOrganizationGroupis updated in my groups.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -150,8 +152,6 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |group|High|people|Delivered when a roaming group is deleted from my groups.</p><p></p>|
@@ -159,7 +159,9 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |pinnedGroup|Low|people|Delivered when a pinned group is deleted from my groups.</p><p></p>|
 |distributionGroup|High|people|Delivered when a distribution group is deleted from my groups.</p><p></p>|
 |delegatorsGroup|High|people|Delivered when a delegator group is removed from my groups.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

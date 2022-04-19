@@ -23,19 +23,13 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Properties
 
-
-
 None
 
 ### Links
 
-
-
 None
 
 ### Azure Active Directory scopes for online applications
-
-
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 

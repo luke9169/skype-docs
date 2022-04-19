@@ -33,10 +33,10 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
-|:-----|:-----|
-|self|The link to the current resource.|
-|conversationLog|Represents the user's view of an instance of past conversation.|
+| **Link** | **Description** |
+| ----- | ----- |
+| self | The link to the current resource. |
+| conversationLog | Represents the user's view of an instance of past conversation. |
 
 ### Azure Active Directory scopes for online applications
 

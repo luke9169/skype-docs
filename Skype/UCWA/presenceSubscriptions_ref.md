@@ -1,3 +1,8 @@
+---
+title: presenceSubscriptions
+description: presenceSubscriptions represents the user's set of presenceSubscription resources. 
+---
+
 # presenceSubscriptions
 
  _**Applies to:** Skype for Business 2015_

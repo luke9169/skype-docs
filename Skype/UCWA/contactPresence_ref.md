@@ -1,3 +1,8 @@
+---
+title: contactPresence
+description: contactPresence represents a contact's availability and activity.
+---
+
 # contactPresence
 
  _**Applies to:** Skype for Business 2015_
@@ -35,8 +40,6 @@ contactPresence is updated when a [contact](contact_ref.md)'s availability or ac
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -45,9 +48,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -57,13 +59,15 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contactPresence|Medium|people|Indicates the contact's presence has changed. The application may decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
 {
   "_links" : {
     "self" : {
@@ -93,7 +97,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 
@@ -161,6 +165,7 @@ Accept: application/json
 
 
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
@@ -199,6 +204,7 @@ Accept: application/xml
 
 
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/xml

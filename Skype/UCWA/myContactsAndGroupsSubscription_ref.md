@@ -1,3 +1,6 @@
+---
+title: myContactsAndGroupsSubscription reference
+---
 # myContactsAndGroupsSubscription
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +15,7 @@ Represents the subscription to a user's contacts and groups.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +29,7 @@ The application can use this resource to keep track of a user's contacts and gro
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |state|The subscription state ([SubscriptionState](SubscriptionState_ref.md)) such as Connecting, Connected, or Disconnected.|
 
@@ -36,7 +39,7 @@ The application can use this resource to keep track of a user's contacts and gro
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |startOrRefreshSubscriptionToContactsAndGroups|Starts or refreshes the subscription to a user's contacts and groups.|
@@ -44,10 +47,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -56,11 +58,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Updated
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |myContactsAndGroupsSubscription|Medium|people|Indicates that the subscription will soon expire, giving the application a chance to refresh it.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -122,7 +123,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
 |Forbidden|403|None|The user does not have sufficient privileges to access pending contacts|

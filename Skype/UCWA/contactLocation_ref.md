@@ -1,3 +1,8 @@
+---
+title: contactLocation
+description: contactLocation represents a contact's location.
+---
+
 # contactLocation
 
  _**Applies to:** Skype for Business 2015_

@@ -1,16 +1,17 @@
 ﻿---
-title: Bye element (MessageType complexType) 
+title: Bye element (MessageType complexType) (Schema D)
 TOCTitle: Bye element
 ms:assetid: 51444c13-c96e-c353-94d8-df11a859ad5e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149438(v=office.16)
 ms:contentKeyID: 65855387
+description: Event that a Sip call has ended and all the media stream terminated.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Bye element 
+# Bye element (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

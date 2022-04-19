@@ -1,3 +1,6 @@
+---
+title: Checking for and handling application errors
+---
 # Checking for and handling application errors
 
 _**Applies to:** Skype for Business 2015_

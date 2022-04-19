@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Trunk element 
+# Trunk element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

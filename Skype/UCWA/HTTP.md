@@ -1,4 +1,7 @@
-
+---
+title: HTTP
+description: The basic operations in Microsoft Unified Communications Web API 2.0 are HTTP requests and responses.
+---
 # HTTP
 The basic operations in Microsoft Unified Communications Web API 2.0 are HTTP requests and responses.
 

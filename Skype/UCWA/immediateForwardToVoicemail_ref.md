@@ -1,3 +1,7 @@
+---
+title: immediateForwardToVoicemail reference
+description: The immediateForwardToVoicemail resource immediately forwards all incoming calls to the user's voicemail.
+---
 # immediateForwardToVoicemail
 
  _**Applies to:** Skype for Business 2015_
@@ -24,48 +28,33 @@ The presence of this resource indicates that the user can forward her incoming c
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
 
 ## Operations
 
-
-
 <a name="sectionSection2"></a>
 
 ### POST
-
-
-
 
 Immediately forward all incoming calls to the user's voicemail.
 
 #### Request body
 
-
-
 None
 
-
 #### Response body
-
-
 
 None
 

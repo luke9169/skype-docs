@@ -1,3 +1,7 @@
+---
+title: Resource list
+description: This topic lists many useful UCWA resources by the categories they fall in.
+---
 
 # Resource list
 This topic lists many useful UCWA resources by the categories they fall in.

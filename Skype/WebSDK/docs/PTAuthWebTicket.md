@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business - Authentication using an access token
+---
 # Authentication using an access token
 
  _**Applies to:** Skype for Business 2015_

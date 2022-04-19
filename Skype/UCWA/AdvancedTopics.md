@@ -1,4 +1,6 @@
-
+---
+title: Advanced topics
+---
 # Advanced topics
 This section lists tools and best practices for developers who are using UCWA 2.0.
 

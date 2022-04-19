@@ -1,5 +1,5 @@
 ﻿---
-title: Upgrading from previous version of the SDN Interface
+title: Upgrading from previous version of the SDN Interface 
 TOCTitle: Upgrading from previous version of the SDN Interface
 ms:assetid: 8d3c28fa-dabe-4a52-9882-a6663ced5217
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn912664(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Upgrading from previous version of the SDN Interface
+# Upgrading from previous version of the SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

@@ -1,5 +1,5 @@
 ﻿---
-title: Configuring the SDN manager by editing the config file
+title: How to configure the SDN manager by editing the config file
 TOCTitle: Configuring the SDN manager by editing the config file
 ms:assetid: 717466aa-c6b2-42ab-8492-8d2f4bed7765
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt148355(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Configuring the SDN manager by editing the config file
+# How to configure the SDN manager by editing the config file
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

@@ -1,5 +1,5 @@
 ﻿---
-title: RDPTileProcessingLatencyBurstDensity element (QualityPropertiesType complexType) 
+title: RDPTileProcessingLatencyBurstDensity element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: RDPTileProcessingLatencyBurstDensity element
 ms:assetid: 9b35d68d-3ef6-9163-e9ff-de885f609173
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404823(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RDPTileProcessingLatencyBurstDensity element 
+# RDPTileProcessingLatencyBurstDensity element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

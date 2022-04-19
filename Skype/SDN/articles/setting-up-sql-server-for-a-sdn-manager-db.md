@@ -1,11 +1,11 @@
 ---
-title: Setting up SQL Server for a SDN manager database
+title: Setting up SQL Server for a SDN manager db
  
 ms.assetid: 2b38badb-b30d-4003-8d18-c84c150feb91
 ---
 
 
-# Setting up SQL Server for a SDN manager database
+# Setting up SQL Server for a SDN manager db
 
 
   

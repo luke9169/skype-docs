@@ -1,3 +1,7 @@
+---
+title: audioTranscript reference
+description: Represents an audio transcript within a conversationLog.
+---
 # audioTranscript
 
  _**Applies to:** Skype for Business 2015_
@@ -19,16 +23,12 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |duration|The audio transcript's duration.|
 |status|The audio transcript status.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -38,9 +38,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|

@@ -1,5 +1,5 @@
 ﻿---
-title: StartPropertiesType complexType 
+title: StartPropertiesType complexType (Schema C)
 TOCTitle: StartPropertiesType complexType
 ms:assetid: 940a26b6-b0d5-28bf-416b-ff5109f1027d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429363(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# StartPropertiesType complexType 
+# StartPropertiesType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 

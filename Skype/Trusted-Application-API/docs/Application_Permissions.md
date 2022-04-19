@@ -1,3 +1,6 @@
+---
+title: Skype for Business Online Application permissions
+---
 # Application permissions
 
 This article is a reference of permissions or roles that can be granted to an application to access specific set of capabilities.

@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceEchoEventRatio element (QualityPropertiesType complexType) 
+title: DeviceEchoEventRatio element (QualityPropertiesType complexType) Schema D
 TOCTitle: DeviceEchoEventRatio element
 ms:assetid: 53675198-ae22-c8b7-df1f-c9cee2da0e0e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149470(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceEchoEventRatio element 
+# DeviceEchoEventRatio element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

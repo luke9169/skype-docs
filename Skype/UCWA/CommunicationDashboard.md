@@ -1,4 +1,6 @@
-
+---
+title: Communication dashboard
+---
 # Communication dashboard
 The **communication** resource acts as a dashboard for the various abilities of the user to communication with others.
 

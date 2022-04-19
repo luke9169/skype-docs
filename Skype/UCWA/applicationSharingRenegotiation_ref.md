@@ -1,3 +1,8 @@
+---
+title: applicationSharingRenegotiation
+description: applicationSharingRenegotiation represents a single re-negotiation entity of a session entity.
+---
+
 # applicationSharingRenegotiation
 
  _**Applies to:** Skype for Business 2015_

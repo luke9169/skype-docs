@@ -1,3 +1,7 @@
+---
+title: Online meetings dashboard
+description: The onlineMeetings resource acts as a dashboard that represents the ability of a user to create and manage online meetings.
+---
 
 # Online meetings dashboard
 The **onlineMeetings** resource acts as a dashboard that represents the ability of a user to create and manage online meetings.

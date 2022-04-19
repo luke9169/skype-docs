@@ -1,5 +1,5 @@
 ﻿---
-title: JitterInterArrival element (QualityPropertiesType complexType) 
+title: JitterInterArrival element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: JitterInterArrival element
 ms:assetid: 2ce581f9-2982-abaa-2295-e33396bdbfa2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404781(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# JitterInterArrival element 
+# JitterInterArrival element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

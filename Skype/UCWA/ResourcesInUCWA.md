@@ -1,4 +1,7 @@
-
+---
+title: Resources in UCWA
+description: Resources are the API in Microsoft Unified Communications Web API 2.0.
+---
 # Resources in UCWA
 Resources are the API in Microsoft Unified Communications Web API 2.0. 
 

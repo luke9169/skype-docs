@@ -1,3 +1,6 @@
+---
+title: myOnlineMeeting reference
+---
 # myOnlineMeeting
 
 **Applies to**: Skype for Business 2015

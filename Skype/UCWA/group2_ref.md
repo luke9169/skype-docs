@@ -1,3 +1,8 @@
+---
+title: group2
+description: group2 represents a user's persistent, personal group version two.
+---
+
 # group2
 
  _**Applies to:** Skype for Business 2015_

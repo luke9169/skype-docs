@@ -1,3 +1,8 @@
+---
+title: subscribeToGroupPresence
+description: Subscribes to the presence information of all the contacts in a particular group.
+---
+
 # subscribeToGroupPresence
 
  _**Applies to:** Skype for Business 2015_

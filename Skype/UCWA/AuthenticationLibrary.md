@@ -1,4 +1,7 @@
-
+---
+title: Authentication library reference
+description: Authentication.js is a JavaScript library that helps authenticate the user.
+---
 # Authentication library
 Authentication.js is a JavaScript library that helps authenticate the user.
 
@@ -30,14 +33,11 @@ The variables declared in the preceding example are used in subsequent examples 
 
 The **destroyApplication** function attempts to destroy the currently active UCWA application.
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |callback|Callback to execute after destroying the application.|
+
  **Syntax**
-
-
 
 
 ```
@@ -114,6 +114,7 @@ The **setAnonymousJoinUri** function sets an internal variable with the conferen
 |**Parameter**|**Description**|
 |:-----|:-----|
 |conferenceUri|The URI of the conference to join.|
+
  **Returns**: Boolean indicating whether the conference URI was valid and was stored.
 
  **Syntax**
@@ -128,12 +129,9 @@ setAnonymousJoinUri(conferenceUri)
  **Example**
 
 
-
-
 ```
 var result = Authentication.setAnonymousJoinUri(conferenceUri);
 ```
-
 
 ### Remarks
 
@@ -145,14 +143,12 @@ A conference URI should have the following form: `sip:john@contoso.com;gruu;opaq
 
 The **setCredentials** function sets the user credentials to be used by authentication.
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |username|The user name to be used for authentication.|
 |password|The password to be used for authentication.|
- **Syntax**
 
+ **Syntax**
 
 
 
@@ -163,25 +159,21 @@ setCredentials(username, password)
  **Example**
 
 
-
-
 ```
 Authentication.setCredentials("bob@contoso.com", "A.B.#.123!");
 ```
-
 
 ## start(link, application, callback)
 <a name="sectionSection5"> </a>
 
 The **start** function starts the authentication process.
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |link|The URL of the site where authentication is taking place, which is the AutodiscoverService root location for the user's domain, such as `https://lyncweb.contoso.com/Autodiscover/AutodiscoverService.svc/root/oauth/user?originalDomain=contoso.com`.|
 |application|The request payload for the application to be created.An example application is shown after this table |
 |callback|Callback to execute after authentication completes.|
+
  **Syntax**
 
 

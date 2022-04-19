@@ -1,3 +1,7 @@
+---
+title: Operation resource
+description: Long-running operations are represented in UCWA 2.0 as operation resources.
+---
 
 # Operation resource
 Long-running operations are represented in UCWA 2.0 as operation resources.

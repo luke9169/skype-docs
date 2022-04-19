@@ -1,4 +1,6 @@
-
+---
+title: Availability reference
+---
 # Availability
 
 

@@ -1,6 +1,7 @@
 ﻿---
-title: To element (EndedType complexType) 
+title: To element (EndedType complexType) schema C
 TOCTitle: To element (EndedType complexType)
+description: More information about the To element (EndedType complexType) schema C.
 ms:assetid: 39ba7ed6-751f-f413-faf3-82219ae7ed22
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429330(v=office.16)
 ms:contentKeyID: 68250773
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# To element 
+# To element (EndedType complexType) schema C
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -85,11 +77,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

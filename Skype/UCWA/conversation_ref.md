@@ -1,3 +1,8 @@
+---
+title: conversation
+description: conversation represents the local participants perspective on a multi-modal, multi-party communication.
+---
+
 # conversation
 
  _**Applies to:** Skype for Business 2015_
@@ -73,9 +78,10 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
+
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| Conversations.Receive | Receive conversation invites | Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user |
 
 ## Events
 <a name="sectionSection2"></a>
@@ -84,9 +90,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|conversation|High|communication|Delivered when a new conversation resource is added.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| conversation | High | communication | Delivered when a new conversation resource is added.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -120,9 +127,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|conversation|High|communication|Delivered when the conversation resource is updated.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| conversation | High | communication | Delivered when the conversation resource is updated.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -156,9 +164,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|conversation|High|communication|Delivered when the conversation resource is deleted.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| conversation | High | communication | Delivered when the conversation resource is deleted.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {

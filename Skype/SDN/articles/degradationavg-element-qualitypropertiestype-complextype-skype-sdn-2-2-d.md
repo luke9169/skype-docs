@@ -1,5 +1,5 @@
 ﻿---
-title: DegradationAvg element (QualityPropertiesType complexType) 
+title: DegradationAvg element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: DegradationAvg element
 ms:assetid: 8482ec9b-f974-4e46-f401-d24709f3f2d5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149465(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationAvg element 
+# DegradationAvg element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

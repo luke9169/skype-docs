@@ -1,3 +1,6 @@
+---
+title: Skype for Business 2015 onlineMeetingInvitation
+---
 # onlineMeetingInvitation
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +15,7 @@ Represents an invitation to a new or existing [onlineMeeting](onlineMeeting_ref.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +29,7 @@ This resource can be incoming or outgoing.If outgoing, the onlineMeetingInvitati
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |anonymousDisplayName|The display name for anonymous users. This is required for anonymous users and should not be set for authenticated users.The maximum length is 250 characters.|
 |availableModalities|The available modality types in the conference.|
@@ -46,7 +49,7 @@ This resource can be incoming or outgoing.If outgoing, the onlineMeetingInvitati
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |accept|Accepts an incoming invitation.|
@@ -61,10 +64,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -74,11 +76,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Started
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |onlineMeetingInvitation|High|communication|Delivered when an online meeting invitation is started. This occurs when the application joins the [onlineMeeting](onlineMeeting_ref.md) modality.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -110,11 +111,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |onlineMeetingInvitation|High|communication|Delivered when the online meeting invitation is updated.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -176,7 +176,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |BadRequest|400|None|Something is wrong with the entire request (malformed XML/JSON, for example).|
 |BadRequest|400|ParameterValidationFailure|Incorrect parameters were provided for the request (for example, the requested conference subject exceeds the maximum length).|

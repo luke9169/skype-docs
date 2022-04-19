@@ -1,3 +1,7 @@
+---
+title: Web links
+description: Web links are the key to resource navigation in UCWA 2.0.
+---
 
 # Web links
 Web links are the key to resource navigation in UCWA 2.0.

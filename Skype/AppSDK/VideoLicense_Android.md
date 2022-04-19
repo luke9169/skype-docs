@@ -1,3 +1,8 @@
+---
+title: Video license acceptance dialog Android
+description: Video license acceptance dialog for Android
+---
+
 # Video license acceptance dialog
 ```java
     /**

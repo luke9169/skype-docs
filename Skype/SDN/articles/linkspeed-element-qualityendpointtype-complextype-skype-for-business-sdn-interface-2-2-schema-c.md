@@ -1,5 +1,5 @@
 ﻿---
-title: LinkSpeed element (QualityEndPointType complexType) 
+title: LinkSpeed element (QualityEndPointType complexType) (Schema C)
 TOCTitle: LinkSpeed element
 ms:assetid: 8226e8b3-be51-055d-ef64-0c4b5bde02c0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404783(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# LinkSpeed element 
+# LinkSpeed element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

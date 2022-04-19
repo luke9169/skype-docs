@@ -1,5 +1,5 @@
 ﻿---
-title: PacketUtilization element (QualityPropertiesType complexType) 
+title: PacketUtilization element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: PacketUtilization element
 ms:assetid: e13be3e1-1e9d-8014-494e-047b4730e72e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170932(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# PacketUtilization element 
+# PacketUtilization element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

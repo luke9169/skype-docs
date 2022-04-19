@@ -1,5 +1,5 @@
 ﻿---
-title: Relay element (QualityEndPointType complexType) 
+title: Relay element (QualityEndPointType complexType) (Schema D)
 TOCTitle: Relay element (QualityEndPointType complexType)
 ms:assetid: a2a2eaad-4b13-38e4-6d0d-33eba115a549
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170975(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Relay element 
+# Relay element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

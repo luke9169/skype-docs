@@ -1,3 +1,8 @@
+---
+title: dismiss
+description: dismiss represents a link resource to answer the negotiation.
+---
+
 # dismiss
 
  _**Applies to:** Skype for Business 2015_

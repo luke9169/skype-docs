@@ -1,3 +1,7 @@
+---
+title: Local user
+description: Using the mePerson object
+---
 
 # Local user
 

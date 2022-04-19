@@ -1,3 +1,8 @@
+---
+title: replaceWithPhoneAudio
+description: replaceWithPhoneAudio adds phone audio to an existing conversation.
+---
+
 # replaceWithPhoneAudio
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Adds phone audio to an existing conversation.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -34,7 +39,8 @@ None
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 
@@ -56,7 +62,7 @@ Replaces audio with phone audio in a [conversation](conversation_ref.md) and sta
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |operationId|The ID that the application supplies to correlate its request with the corresponding operation started in the event channel.The maximum length is 50 characters. String|No|
 |phoneNumber|The user's own telephone number that she wants to ring when using [startPhoneAudio](startPhoneAudio_ref.md).The input parameter is a digit string that can include "+" if the following digit string is an E.164 normalized number.This parameter is optional and defaults to the phone number supplied when the application was created.String|No|
@@ -66,7 +72,7 @@ Replaces audio with phone audio in a [conversation](conversation_ref.md) and sta
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[phoneAudioInvitation](PhoneAudioInvitation_ref.md)|Represents an invitation to a [conversation](conversation_ref.md) for the [phoneAudio](phoneAudio_ref.md) modality.|
 
@@ -76,7 +82,7 @@ Replaces audio with phone audio in a [conversation](conversation_ref.md) and sta
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |BadRequest|400|NormalizationFailed|The phone normalization failed.|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|

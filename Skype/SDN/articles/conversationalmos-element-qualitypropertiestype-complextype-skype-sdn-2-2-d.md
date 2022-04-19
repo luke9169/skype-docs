@@ -1,5 +1,5 @@
 ﻿---
-title: ConversationalMOS element (QualityPropertiesType complexType) 
+title: ConversationalMOS element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: ConversationalMOS element
 ms:assetid: 35454d26-8984-465e-3a2b-0ad9c505bbb9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149455(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConversationalMOS element 
+# ConversationalMOS element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,3 +1,8 @@
+---
+title: simultaneousRingToDelegates
+description: Simultaneously send all incoming calls to a user's delegates in addition to the user.
+---
+
 # simultaneousRingToDelegates
 
  _**Applies to:** Skype for Business 2015_

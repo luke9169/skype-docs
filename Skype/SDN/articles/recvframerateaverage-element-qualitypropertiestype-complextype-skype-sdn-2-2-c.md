@@ -1,5 +1,5 @@
 ﻿---
-title: RecvFrameRateAverage element (QualityPropertiesType complexType) 
+title: RecvFrameRateAverage element (QualityPropertiesType complexType) Schema C
 TOCTitle: RecvFrameRateAverage element
 ms:assetid: 0ae6b1d1-62e7-fc96-eed0-25e033e2e5d2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404824(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RecvFrameRateAverage element 
+# RecvFrameRateAverage element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

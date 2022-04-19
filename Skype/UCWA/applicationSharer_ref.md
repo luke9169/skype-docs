@@ -1,3 +1,8 @@
+---
+title: applicationSharer
+description: applicationSharer represents the participant in a conversation who is currently sharing a program or her screen.
+---
+
 # applicationSharer
 
  _**Applies to:** Skype for Business 2015_

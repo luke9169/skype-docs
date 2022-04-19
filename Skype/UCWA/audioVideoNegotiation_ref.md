@@ -1,14 +1,13 @@
 ---
 title: audioVideoNegotiation
-description: A resource that provides an outgoing audioVideo call its media answers. This resource appears only in the event channel or in a response to a request. It will not appear in a request.
+description: A resource that provides an outgoing audioVideo call its media answers. This resource appears only in the event channel or in a response to a request.
 ---
 # audioVideoNegotiation
 
  _**Applies to:** Skype for Business 2015_
 
 
-A resource that provides an outgoing audioVideo call its media answers. This resource appears only
-in the event channel or in a response to a request. It will not appear in a request.
+A resource that provides an outgoing audioVideo call its media answers. This resource appears only in the event channel or in a response to a request. It will not appear in a request.
             
 
 ## Web Link
@@ -48,9 +47,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -66,8 +64,12 @@ The user must have at least one of these scopes for operations on the resource t
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoNegotiation|High|audioVideoInvitation|Delivered when the AudioVideo negotiation is updated.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
 {
   "_links" : {
     "self" : {
@@ -93,7 +95,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 

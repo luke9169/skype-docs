@@ -1,3 +1,7 @@
+---
+title: InvitationState
+description: Represents the status of an outgoing call instance.
+---
 
 # InvitationState
 

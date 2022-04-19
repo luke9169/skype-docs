@@ -1,5 +1,5 @@
 ﻿---
-title: BSSID element (QualityEndPointType complexType) 
+title: BSSID element (QualityEndPointType complexType) Schema D 
 TOCTitle: BSSID element
 ms:assetid: 98718345-3dd5-7344-4de0-dd5b49cad0f5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149433(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BSSID element 
+# BSSID element (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,3 +1,7 @@
+---
+title: batch reference
+description: Initiates an operation that groups multiple, independent HTTP operations into a single HTTP request payload.
+---
 # batch
 
  _**Applies to:** Skype for Business 2015_
@@ -36,9 +40,8 @@ None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|

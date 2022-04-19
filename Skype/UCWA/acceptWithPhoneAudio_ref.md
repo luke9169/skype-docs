@@ -1,3 +1,8 @@
+---
+title: acceptWithPhoneAudio
+description: Represents a link to an audioVideoInvitation resource that allows the client application to accept the invitation by using phoneAudio.
+---
+
 # acceptWithPhoneAudio
 
  _**Applies to:** Skype for Business 2015_
@@ -11,7 +16,6 @@ Represents a link to an audioVideoInvitation resource that allows the client app
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -19,28 +23,21 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 
 ## Operations
-
-
 
 <a name="sectionSection2"></a>
 

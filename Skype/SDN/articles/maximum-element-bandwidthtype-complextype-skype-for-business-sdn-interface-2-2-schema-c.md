@@ -1,5 +1,5 @@
 ﻿---
-title: Maximum element (BandwidthType complexType) 
+title: Maximum element (BandwidthType complexType) (Schema C)
 TOCTitle: Maximum element
 ms:assetid: 3eea5c54-ce2c-f09b-47c3-1b3d758e6286
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404790(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Maximum element 
+# Maximum element (Schema C)
 
 (BandwidthType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

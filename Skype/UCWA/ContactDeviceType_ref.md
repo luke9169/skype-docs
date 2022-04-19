@@ -1,3 +1,7 @@
+---
+title: ContactDeviceType
+description: ContactDeviceType represents the type of device that the contact is currently using.
+---
 
 # ContactDeviceType
 

@@ -1,3 +1,8 @@
+---
+title: group
+description: group represents a user's persistent, personal group.
+---
+
 # group
 
  _**Applies to:** Skype for Business 2015_

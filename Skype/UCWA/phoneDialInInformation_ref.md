@@ -53,13 +53,13 @@ This resource can have the following relationships.
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
-|Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
-|Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
-|Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
-|Meetings.ReadWrite|Create Skype Meetings|Allows the app to create Skype meetings on-behalf of the signed-in user|
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| User.ReadWrite | Read/write Skype user information | Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user |
+| Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
+| Conversations.Initiate | Initiate conversations and join meetings | Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user |
+| Conversations.Receive | Receive conversation invites | Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user |
+| Meetings.ReadWrite | Create Skype Meetings | Allows the app to create Skype meetings on-behalf of the signed-in user |
 
 ## Operations
 

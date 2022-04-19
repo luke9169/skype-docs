@@ -1,5 +1,5 @@
 ﻿---
-title: EchoReturn element (QualityPropertiesType complexType) 
+title: EchoReturn element (QualityPropertiesType complexType) (Schema D) 
 TOCTitle: EchoReturn element
 ms:assetid: 90c85b41-fbf7-ee4c-8864-a62d7cbc3d53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170849(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EchoReturn element 
+# EchoReturn element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

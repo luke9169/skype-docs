@@ -1,3 +1,7 @@
+---
+title: Batch library
+description: Batch.js is a JavaScript library that helps combine multiple HTTP requests into a single batch request.
+---
 
 # Batch library
 Batch.js is a JavaScript library that helps combine multiple HTTP requests into a single batch request.
@@ -13,7 +17,6 @@ Batch.js has a queuing mechanism that stores up to 20 requests before sending. T
 
 To create a **Batch** object, you must first create **Cache** and **Transport** objects, as in the following sample. For more information, see [Cache library](CacheLibrary.md) and [Transport library](TransportLibrary.md).
 
-
 ```
 var targetOrigin = "https://www.myDomain.com",
 Cache = new microsoft.rtc.ucwa.samples.Cache(),
@@ -21,9 +24,7 @@ Transport = new microsoft.rtc.ucwa.samples.Transport(targetOrigin),
 timerLimit = 2000,
 Batch = new microsoft.rtc.ucwa.samples.Batch(Cache, Transport, timerLimit);
 ```
-
 The variables declared in the preceding example are used in subsequent examples in this topic.
-
 
 ## processBatch()
 <a name="sectionSection1"> </a>
@@ -32,9 +33,6 @@ The **processBatch** function processes any operations that were previously plac
 
  **Syntax**
 
-
-
-
 ```
 processBatch()
 ```
@@ -42,17 +40,13 @@ processBatch()
  **Example**
 
 
-
-
 ```
 Batch.processBatch();
 ```
 
-
 ### Remarks
 
 The **processBatch** function checks to see if the batch queue has any outstanding requests. If so, it begins immediate processing. If a timer was active it will be cleared. After the batch request is sent, the queue is cleared.
-
 
 ## queueRequest(request)
 <a name="sectionSection2"> </a>
@@ -60,13 +54,11 @@ The **processBatch** function checks to see if the batch queue has any outstandi
 The **queueRequest** function places an HTTP request on the queue to be sent at a later time.
 
 
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |request|HTTP request object.|
+
  **Syntax**
-
-
 
 
 ```

@@ -1,3 +1,8 @@
+---
+title: dialInRegion
+description: dialInRegion represents access information for phone users who wish to join an onlineMeeting.
+---
+
 # dialInRegion
 
  _**Applies to:** Skype for Business 2015_

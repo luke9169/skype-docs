@@ -1,6 +1,7 @@
 ﻿---
-title: RDPTileProcessingLatencyAverage element (QualityPropertiesType complexType) 
+title: RDPTileProcessingLatencyAverage element (QualityPropertiesType complexType) schema D
 TOCTitle: RDPTileProcessingLatencyAverage element
+description: Average processing time for remote desktop protocol (RDP) tiles. A higher total value implies a longer delay in the viewing experience.
 ms:assetid: 27c1a357-e54f-c912-77a9-5fbee91c8d8e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170957(v=office.16)
 ms:contentKeyID: 65855532
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RDPTileProcessingLatencyAverage element 
+# RDPTileProcessingLatencyAverage element, schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

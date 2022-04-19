@@ -1,4 +1,7 @@
-
+---
+title: Events library
+description: Events.js is a JavaScript library that helps start and stop the event channel and add event handlers.
+---
 # Events library
 Events.js is a JavaScript library that helps start and stop the event channel and add event handlers.
 
@@ -32,12 +35,11 @@ The variables declared in the preceding example are used in subsequent examples 
 
 The **addEventHandlers** function adds an event handler for a specified resource.
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |raiser|The resource that raises the event that will trigger the handlers.|
 |handlers|The set of handlers, one for each event type.|
+
  **Syntax**
 
 
@@ -116,11 +118,10 @@ The _handlers_parameter should be an object containing _one or more_of the follo
 
 The **removeEventHandlers** function removes event handlers for a specified resource.
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |raiser|The raiser of the event whose handlers are to be removed.|
+
  **Syntax**
 
 

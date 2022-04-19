@@ -1,5 +1,5 @@
 ﻿---
-title: Connection element (QualityEndPointType complexType) 
+title: Learn about the connection element (QualityEndPointType complexType) schema C 
 TOCTitle: Connection element
 ms:assetid: 468436d2-f6ec-74b5-04d1-ddc7b54cee3a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404723(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Connection element 
+# Learn about the (QualityEndPointType complexType) connection element schema C 
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

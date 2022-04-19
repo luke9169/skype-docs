@@ -1,3 +1,8 @@
+---
+title: Discovery for Service Applications
+description: Trusted Application APIs are discovered using the discovery endpoint.
+---
+
 # Discovery for Service Applications
 
  

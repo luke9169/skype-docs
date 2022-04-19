@@ -1,3 +1,8 @@
+---
+title: groupMemberships
+description: groupMemberships represents a collection of all the group memberships for a particular group.
+---
+
 # groupMemberships
 
  _**Applies to:** Skype for Business 2015_

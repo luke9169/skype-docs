@@ -1,5 +1,5 @@
 ﻿---
-title: BitRateAvg element (QualityPropertiesType complexType) 
+title: BitRateAvg element (QualityPropertiesType complexType) Schema D
 TOCTitle: BitRateAvg element
 ms:assetid: 3a632c93-613c-f9ee-c30c-9ddf1e2b6711
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149431(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BitRateAvg element 
+# BitRateAvg element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

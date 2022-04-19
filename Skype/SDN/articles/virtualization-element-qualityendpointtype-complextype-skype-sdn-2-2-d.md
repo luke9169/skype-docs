@@ -1,5 +1,5 @@
 ﻿---
-title: Virtualization element (QualityEndPointType complexType) 
+title: Virtualization element (QualityEndPointType complexType) (Schema D)
 TOCTitle: Virtualization element
 ms:assetid: b84d29f7-4765-1292-061c-ec0542165e6f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171032(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Virtualization element 
+# Virtualization element (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

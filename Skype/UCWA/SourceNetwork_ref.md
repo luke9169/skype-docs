@@ -1,4 +1,7 @@
-
+---
+title: SourceNetwork
+description: SourceNetwork is an enumeration that represents the source-network type of a participant.
+---
 # SourceNetwork
 
 

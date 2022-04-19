@@ -1,6 +1,7 @@
 ﻿---
-title: To element (QualityType complexType) 
+title: To element (QualityType complexType) (Schema C)
 TOCTitle: To element (QualityType complexType)
+description: Information about the To element (QualityType complexType) (Schema C)
 ms:assetid: d13327fd-b66f-078b-f740-a139fb7d9fe8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404859(v=office.16)
 ms:contentKeyID: 68250771
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# To element 
+# To element (QualityType complexType) (Schema C)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -90,11 +82,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

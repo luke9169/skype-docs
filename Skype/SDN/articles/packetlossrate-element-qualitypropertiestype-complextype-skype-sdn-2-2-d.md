@@ -1,5 +1,5 @@
 ﻿---
-title: PacketLossRate element (QualityPropertiesType complexType) 
+title: PacketLossRate element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: PacketLossRate element
 ms:assetid: 8100f94b-c89d-cc0a-5228-5fee575a4c6b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170933(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# PacketLossRate element 
+# PacketLossRate element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,5 +1,5 @@
 ﻿---
-title: EchoEventCauses element (QualityPropertiesType complexType) 
+title: EchoEventCauses element (QualityPropertiesType complexType) Schema C
 TOCTitle: EchoEventCauses element
 ms:assetid: 0754245f-61d2-9af9-d11e-d1606b811c39
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404750(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EchoEventCauses element 
+# EchoEventCauses element Schema C 
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

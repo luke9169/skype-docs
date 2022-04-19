@@ -1,4 +1,7 @@
-
+---
+title: Configuring a topology
+description: Learn how to configure a topology that supports Microsoft Unified Communications Web API 2.0.
+---
 # Configuring a topology
 Learn how to configure a topology that supports Microsoft Unified Communications Web API 2.0.
 
@@ -12,13 +15,12 @@ Learn how to configure a topology that supports Microsoft Unified Communications
 
 Browser-based UCWA 2.0 applications require server-side configuration before they will work. For security, an allowed list is maintained on the server to protect Skype for Business Server from malicious third-party domains (see [Cross-domain IFRAME](Cross_domainIFRAME.md) for more information). Domains, or origins, are defined in [RFC 6454](http://tools.ietf.org/html/rfc6454) as scheme, host, and port.
 
-
-
 |**Item**|**Example**|
 |:-----|:-----|
 |Scheme|https|
 |Host|apps.contoso.com|
 |Port|80|
+
 According to the definition, all three of the following are different:
 
 

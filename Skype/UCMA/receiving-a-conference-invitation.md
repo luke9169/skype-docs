@@ -15,13 +15,13 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-At the SIP level, a [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) is represented as a SIP INVITE with Session Description Protocol (SDP) that contains information about the media types that are included in the call, together with other information that helps negotiate a connection between the sender and recipient of the INVITE.
+At the SIP level, a [Call](/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) is represented as a SIP INVITE with Session Description Protocol (SDP) that contains information about the media types that are included in the call, together with other information that helps negotiate a connection between the sender and recipient of the INVITE.
 
 Similarly, a [ConferenceInvitation](https://msdn.microsoft.com/library/hh349823\(v=office.16\)) is also represented at the SIP level as a SIP INVITE, although the SDP contains XML data that describes the conference and the media types that are available in the conference.
 
 The following list describes the steps an application must perform when it receives a conference invitation. Several steps refer to the code example that follows the list.
 
-1.  The application registers for the [ConferenceInvitationReceived](https://msdn.microsoft.com/library/hh366294\(v=office.16\)) event (an event on the [LocalEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.localendpoint?view=ucma-api) class).
+1.  The application registers for the [ConferenceInvitationReceived](https://msdn.microsoft.com/library/hh366294\(v=office.16\)) event (an event on the [LocalEndpoint](/dotnet/api/microsoft.rtc.collaboration.localendpoint?view=ucma-api) class).
 
 2.  When the **ConferenceInvitationReceived** event is raised, the application accepts the invitation by calling the **BeginAccept** method on the [Invitation](https://msdn.microsoft.com/library/hh348650\(v=office.16\)) property. This is shown in the following example, in the *ConferenceInvitationReceived* method.
     
@@ -31,7 +31,7 @@ The following list describes the steps an application must perform when it recei
 
 4.  If the join operation has completed successfully, (when the [EndJoin](https://msdn.microsoft.com/library/hh348936\(v=office.16\)) method on the ConferenceSession instance returns successfully), the application can participate by creating an instant message call or an audio/video call, and then establishing the call, using **BeginEstablish**. This is shown in the following example, in the *ConferenceInvitation\_JoinCompleted* method.
 
-5.  After the call is established successfully, (when the [EndEstablish](https://msdn.microsoft.com/library/hh349248\(v=office.16\)) method returns successfully), the application can use the call to exchange media (that is, the application is ready to send and receive instant messages in an [InstantMessagingCall](https://msdn.microsoft.com/library/hh161841\(v=office.16\)) or to send and receive audio in an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api)). The *ImCall\_EstablishCompleted* and *AvCall\_EstablishCompleted* methods in the following example show how to check that an instant message call and an audio/video call, respectively, have been successfully established.
+5.  After the call is established successfully, (when the [EndEstablish](https://msdn.microsoft.com/library/hh349248\(v=office.16\)) method returns successfully), the application can use the call to exchange media (that is, the application is ready to send and receive instant messages in an [InstantMessagingCall](https://msdn.microsoft.com/library/hh161841\(v=office.16\)) or to send and receive audio in an [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api)). The *ImCall\_EstablishCompleted* and *AvCall\_EstablishCompleted* methods in the following example show how to check that an instant message call and an audio/video call, respectively, have been successfully established.
 
 <!-- end list -->
 

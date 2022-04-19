@@ -1,11 +1,11 @@
 ---
-title: Skype for Business Software Defined Networking (SDN) Interface
+title: Skype for Business SDN Interface
  
 ms.assetid: 2cc9aa1a-a180-4887-8e87-93450ab57106
 ---
 
 
-# Skype for Business Software Defined Networking (SDN) Interface
+# Skype for Business SDN Interface
 
 **Applies to**: Lync Server 2013 | Skype for Business 2015
 

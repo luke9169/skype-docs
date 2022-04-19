@@ -1,3 +1,7 @@
+---
+title: Key tasks
+description: Learn about how your web application can use UCWA 2.0 to perform a variety of tasks.
+---
 
 # Key tasks
 Learn about how your web application can use UCWA 2.0 to perform a variety of tasks.

@@ -1,3 +1,8 @@
+---
+title: unansweredCallToContact
+description: Forward all incoming calls to a user-provided number or contact if the user does not respond.
+---
+
 # unansweredCallToContact
 
  _**Applies to:** Skype for Business 2015_

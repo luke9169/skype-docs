@@ -1,3 +1,7 @@
+---
+title: phoneAudioInvitation
+description: phoneAudioInvitation represents an invitation to a conversation for the phoneAudio modality.
+---
 # phoneAudioInvitation
 
  _**Applies to:** Skype for Business 2015_
@@ -43,8 +47,6 @@ This resource can be incoming or outgoing. If outgoing, the phoneAudioInvitation
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -70,9 +72,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -82,12 +83,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Started
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |phoneAudioInvitation|High|communication|Delivered when a phone audio invitation is started. This occurs when the application adds the local participant's phone to a conversation.|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -118,12 +119,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |phoneAudioInvitation|High|communication|Delivered when the phone audio invitation is updated.|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

@@ -1,3 +1,7 @@
+---
+title: audioVideoInvitation reference
+description: audioVideoInvitation represents an audio-video invitation in Skype for Business 2015.
+---
 # audioVideoInvitation
 
  _**Applies to:** Skype for Business 2015_
@@ -77,9 +81,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -89,12 +92,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Started
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoInvitation|High|communication|Delivered when an audio-video invitation is started. This occurs when the application starts the [audioVideo](audioVideo_ref.md) modality.|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -130,8 +133,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoInvitation|High|communication|Delivered when the audio-video invitation is updated.|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 {
   "_links" : {
     "self" : {

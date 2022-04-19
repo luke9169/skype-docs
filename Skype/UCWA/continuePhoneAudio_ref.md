@@ -1,3 +1,8 @@
+---
+title: continuePhoneAudio
+description: Continues phone audio modality of a past conversation.
+---
+
 # continuePhoneAudio
 
  _**Applies to:** Skype for Business 2015_

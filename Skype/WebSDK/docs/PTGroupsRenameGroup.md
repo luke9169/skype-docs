@@ -1,3 +1,7 @@
+---
+title: Rename Group
+description: Group objects have a name property that can be set to trigger a rename operation. Depending on the contact storage, either the existing group will be removed and a new group created or the existing group will be renamed. Only custom user-created groups can be renamed.
+---
 
 # Rename Group
 

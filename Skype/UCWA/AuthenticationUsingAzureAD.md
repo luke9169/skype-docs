@@ -1,4 +1,7 @@
-
+---
+title: Authentication using Azure AD
+description: Learn how a UCWA 2.0 online application authenticates a user with Azure AD to access Skype for Business resources.
+---
 # Authentication using Azure AD
 Learn how a UCWA 2.0 online application authenticates a user with Azure AD to access Skype for Business resources.
 
@@ -167,8 +170,6 @@ The response to a request for an access token has the following format:
 The access token response contains the following parameters:
 
 
-
-
 |**Parameter**|**Description**|
 |:-----|:-----|
 |access_token|The requested access token.|
@@ -179,6 +180,7 @@ The access token response contains the following parameters:
 |refresh_token|An OAuth 2.0 refresh token. Your application can use this token to acquire additional access tokens after the current one expires.|
 |scope|Impersonation permissions granted to the client application. The default permission is user_impersonation. The owner of the secured resource can register additional values in Azure AD.|
 |id_token|An unsigned JSON Web Token (JWT). Your application can use this token to request information about the user who consented. The application can cache the values and display them. For more information about JSON web tokens, see the [JWT IETF draft specification](https://go.microsoft.com/fwlink/?LinkId=392344).|
+
 For more information on access token contents, see [Authorization Code Grant Flow](https://msdn.microsoft.com/library/azure/dn645542.aspx).
 
 User login is not requested again after this point because the user is already signed in and your application has a set of cookies for the authenticated user. If authentication is successful, Azure AD creates an ID token and returns it as a URL fragment to the application's Reply URI ( `redirect_uri`). For a production application, this Reply URL should be HTTPS. The returned token includes claims about the user and Azure AD that the application requires to validate the token. The JavaScript client code running in the browser extracts the token from the response to use in securing calls.

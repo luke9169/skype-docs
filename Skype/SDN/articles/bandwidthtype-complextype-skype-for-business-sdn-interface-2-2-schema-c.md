@@ -1,5 +1,5 @@
 ﻿---
-title: BandwidthType complexType 
+title: BandwidthType complexType Schema C
 TOCTitle: BandwidthType complexType
 ms:assetid: 76ff9fdd-8b40-9657-ecc5-7457718d84ed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429347(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BandwidthType complexType 
+# BandwidthType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
  

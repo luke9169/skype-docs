@@ -1,5 +1,9 @@
+---
+title: Currently signed in groups and contacts operations
+description: This section describes the different operations you can perform with the groups and contacts of the currently signed in user.
+---
 
-# Groups
+# Group operations
 
 
 

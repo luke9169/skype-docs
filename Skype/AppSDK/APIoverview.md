@@ -1,3 +1,8 @@
+---
+title: Skype for Business App SDK - API overview
+description: This article provides an API overview for the Skype for Business App SDK.
+---
+
 # Skype for Business App SDK - API overview
 ## SDK Object Model 	
  

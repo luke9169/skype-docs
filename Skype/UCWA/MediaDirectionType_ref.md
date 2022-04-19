@@ -1,4 +1,7 @@
-
+---
+title: MediaDirectionType
+description: MediaDirectionType is an enumeration that represents the media channel direction.
+---
 # MediaDirectionType
 
 

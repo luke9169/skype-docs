@@ -1,4 +1,7 @@
-
+---
+title: ReNegotiationDeclineReason
+description: Reasons for declining a ReNegotiation.
+---
 # ReNegotiationDeclineReason
 
 

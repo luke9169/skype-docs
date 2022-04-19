@@ -1,4 +1,7 @@
-
+---
+title: Authentication using Windows Auth 
+description: Learn about authentication using Windows Auth.
+---
 # Authentication using Windows Auth
 
  _**Applies to:** Skype for Business 2015_

@@ -1,3 +1,6 @@
+---
+title: Skype 2015 License
+---
 # License
 
 Everything in this repo is BSD style license unless otherwise specified.

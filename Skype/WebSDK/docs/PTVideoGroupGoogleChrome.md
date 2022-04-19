@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 - Group Video in Google Chrome
+---
 # Group Video in Google Chrome
 
  _**Applies to:** Skype for Business 2015_

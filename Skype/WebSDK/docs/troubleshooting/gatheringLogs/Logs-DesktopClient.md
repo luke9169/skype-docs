@@ -1,3 +1,6 @@
+---
+title: Gathering Logs from a Skype for Business Desktop Client
+---
 # Gathering Logs from a Skype for Business Desktop Client
 
 **In this article:**

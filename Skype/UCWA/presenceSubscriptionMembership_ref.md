@@ -1,3 +1,8 @@
+---
+title: presenceSubscriptionMembership
+description: presenceSubscriptionMembership represents the presenceSubscription membership of a single contact.
+---
+
 # presenceSubscriptionMembership
 
  _**Applies to:** Skype for Business 2015_

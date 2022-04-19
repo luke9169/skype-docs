@@ -1,3 +1,7 @@
+---
+title: ConversationModalityType
+description: ConversationModalityType represents modality types that can be active in the conversation.
+---
 
 # ConversationModalityType
 

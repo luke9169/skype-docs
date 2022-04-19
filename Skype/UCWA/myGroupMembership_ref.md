@@ -1,3 +1,7 @@
+---
+title: myGroupMembership reference
+description: The myGroupMembership resource represents the group membership of a single contact.
+---
 # myGroupMembership
 
  _**Applies to:** Skype for Business 2015_
@@ -24,13 +28,9 @@ This resource captures a unique pair of [contact](contact_ref.md) and [group](gr
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -44,9 +44,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|

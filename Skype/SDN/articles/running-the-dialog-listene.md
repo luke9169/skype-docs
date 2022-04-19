@@ -1,11 +1,11 @@
 ---
-title: Running the SDN Interface Dialog Listener
+title: Running the Dialog Listener
  
 ms.assetid: f405de17-b1be-419e-a301-4055a4dfdaad
 ---
 
 
-# Running the SDN Interface Dialog Listener
+# Running the Dialog Listener
 
 
   

@@ -1,4 +1,6 @@
-
+---
+title: ErrorCode reference
+---
 # ErrorCode
 
 

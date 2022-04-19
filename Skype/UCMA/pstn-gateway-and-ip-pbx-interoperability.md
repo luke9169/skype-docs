@@ -34,7 +34,7 @@ In addition, SIP peers:
 
 - Must provide media/audio transport using RTP/RTCP over UDP.
 
-- Must meet the Supported IP Gateways requirements listed in [Telephony Advisor for Exchange 2010](https://docs.microsoft.com/exchange/voice-mail-unified-messaging/telephone-system-integration-with-um/telephony-advisor-for-exchange-2013).
+- Must meet the Supported IP Gateways requirements listed in [Telephony Advisor for Exchange 2010](/exchange/voice-mail-unified-messaging/telephone-system-integration-with-um/telephony-advisor-for-exchange-2013).
 
 The following illustration shows a typical setup.
 

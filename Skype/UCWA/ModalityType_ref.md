@@ -1,4 +1,6 @@
-
+---
+title: ModalityType reference
+---
 # ModalityType
 
 

@@ -1,5 +1,5 @@
 ﻿---
-title: EndPointType complexType 
+title: EndPointType complexType (Schema D)
 TOCTitle: EndPointType complexType
 ms:assetid: c3b15051-71b7-033e-87b8-adaa90bed2c2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171061(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndPointType complexType 
+# EndPointType complexType (SChema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

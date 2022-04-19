@@ -1,11 +1,11 @@
 ---
-title: Unattended installation of SDN Manager and Dialog Listener
+title: Unattended installation of SDN Manager and Dialog Listener (Lync Server 2010 | Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
 description: Describes the parameters that are used for an unattended installation.
 ms.date: 03/30/2022
 ms.assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
 ---
 
-# Unattended installation of SDN Manager and Dialog Listener
+# Unattended installation of SDN Manager and Dialog Listener (Lync Server 2010 \| Lync Server 2013 \| Skype for Business 2015 \| Skype for Business 2019)
 
 **Applies to**: Lync Server 2010 | Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
@@ -71,7 +71,7 @@ Follow the guidelines for an unattended install:
 |SETUPDB |Setting this parameter to 1 causes the installer to create the SDN ManagerSDN Manager database. This parameter must be set (SETUPDB=1) for the first installation when a database for call state or settings should be created. |
 |REDIS_CONNECTSTRING |The connect string to access a REDIS cache server. For example, to connect to Azure the connect string might appear as follows: `myname.redis.cache.windows.net,ssl=true,password=VeryLongKeyCopiedFromPortal`</br>For more information, see [How to Use Azure Redis Cache](https://azure.microsoft.com/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/)|
 |REDIS_PASSWORD |Password to access the REDIS server. For Microsoft Azure Redis Cache, enter the key provided on the Azure Management panel. |
-|USE_DAPI |When set to true ("USE_DAPI=True"), the text specified for REDIS_PASSWORD will be persisted in the SDNManager.exe.config file as a DPAPI encrypted string, and the SDNManager.exe.config file will contain "<add key="usedapi" value="True"/>". Setting is ignored if TOPOLOGY is not '3' - REDIS only. |
+|USE_DAPI |When set to true ("USE_DAPI=True"), the text specified for REDIS_PASSWORD will be persisted in the SDNManager.exe.config file as a DPAPI encrypted string, and the SDNManager.exe.config file will contain "\<add key="usedapi" value="True"/>". Setting is ignored if TOPOLOGY is not '3' - REDIS only. |
 
 > [!NOTE]
 > Most settings provided during the setup can be modified after installation by editing the SDNManager.exe.config file.

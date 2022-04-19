@@ -1,5 +1,5 @@
 ﻿---
-title: SpeakerGlitchRate element (QualityPropertiesType complexType) 
+title: SpeakerGlitchRate element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: SpeakerGlitchRate element
 ms:assetid: cd4db9f8-5e04-9276-d752-0c57eea65ccc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404852(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# SpeakerGlitchRate element 
+# SpeakerGlitchRate element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,6 +1,7 @@
 ﻿---
-title: URI element (ByeEndPointType complexType) 
+title: URI element (ByeEndPointType complexType) schema D
 TOCTitle: URI element (ByeEndPointType complexType)
+description: Information about the URI element (ByeEndPointType complexType) schema D. 
 ms:assetid: 53afb829-203a-12fa-bde2-6cd6041c1064
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171019(v=office.16)
 ms:contentKeyID: 65855592
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (ByeEndPointType complexType) schema D
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

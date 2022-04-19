@@ -1,4 +1,5 @@
 ---
+description: Learn how to create a UCMA "bot" that extends an IVR to simplify navigation before making a call.
 title: Visual IVR (sample)
 TOCTitle: Visual IVR (sample)
 ms:assetid: fcc6ccb1-2b8e-4471-b863-2e7fe22b600f
@@ -16,5 +17,5 @@ mtps_version: v=office.16
 
 The sample creates a UCMA "bot" that extends an IVR by adding a graphical selection menu in the Lync Conversation Extension Window, which simplifies navigation before making a call.
 
-For more information, see [Microsoft Lync Dev Center](https://docs.microsoft.com/lync/lync-2013).
+For more information, see [Microsoft Lync Dev Center](/lync/lync-2013).
 

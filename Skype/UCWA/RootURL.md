@@ -1,5 +1,9 @@
-
+---
+title: Root URL for Skype for Business 2015
+description: A UCWA 2.0 application's first task is to use the root URL to discover the URL of the user's home pool.
+---
 # Root URL
+
 A UCWA 2.0 application's first task is to use the root URL to discover the URL of the user's home pool.
 
 
@@ -15,8 +19,8 @@ The different variations of the root URL are shown in the following table.
 
 |**Scheme**|**Internal**|**External**|
 |:-----|:-----|:-----|
-|HTTPS|https://LyncDiscoverInternal.<domain>|https://LyncDiscover.<domain>|
-|HTTP|http://LyncDiscoverInternal.<domain>|http://LyncDiscover.<domain>|
+|HTTPS|https://LyncDiscoverInternal.\<domain>|https://LyncDiscover.\<domain>|
+|HTTP|http://LyncDiscoverInternal.\<domain>|http://LyncDiscover.\<domain>|
 
 ## Discovery
 
@@ -28,7 +32,7 @@ Autodiscovery is used by all Skype for Business client applications and is based
 
 
 > [!NOTE] 
-> In coexistence mode (Lync 2010 and Skype for Business 2015), to support custom UCWA 2.0 application development, you must point the Autodiscover CNAME (Lyncdiscover.<domain> and LyncDiscoverinternal.<domain>) to a Skype for Business Server 2015 pool.
+> In coexistence mode (Lync 2010 and Skype for Business 2015), to support custom UCWA 2.0 application development, you must point the Autodiscover CNAME (Lyncdiscover.\<domain> and LyncDiscoverinternal.\<domain>) to a Skype for Business Server 2015 pool.
 
 
 ### Authenticated user flow

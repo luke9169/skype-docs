@@ -12,7 +12,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-This section provides conceptual details about communications in relation to the [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)), [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api), [ConferenceSession](https://msdn.microsoft.com/library/hh349315\(v=office.16\)), and [ConversationContextChannel](https://msdn.microsoft.com/library/hh161849\(v=office.16\)) classes.
+This section provides conceptual details about communications in relation to the [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)), [Call](/dotnet/api/microsoft.rtc.collaboration.call), [ConferenceSession](https://msdn.microsoft.com/library/hh349315\(v=office.16\)), and [ConversationContextChannel](https://msdn.microsoft.com/library/hh161849\(v=office.16\)) classes.
 
 - [Conversations](conversations.md)
 - [Calls](calls.md)

@@ -1,3 +1,7 @@
+---
+title: Skype URI tutorial iOS apps
+description: Learn how to incorporate Skype communication functionality into your iOS apps.
+---
 
 # Skype URI tutorial: iOS apps
 

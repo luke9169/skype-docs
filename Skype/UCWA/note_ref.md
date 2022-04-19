@@ -1,3 +1,8 @@
+---
+title: Note
+description: Represents the user's personal or out-of-office note.
+---
+
 # note
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the user's personal or out-of-office note.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +31,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |message|A string representing the note text.|
 |type|The note type ([NoteType](NoteType_ref.md)) gives a hint to the user as to what type of note is being displayed, either Personal or OutOfOffice.|
@@ -37,7 +42,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 
@@ -46,7 +51,8 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
 
@@ -55,11 +61,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |note|Medium|me|Indicates that the application is no longer in lurker mode. The application will now receive the user's note updates.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -91,11 +96,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |note|Medium|me|Indicates the user's note has changed.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -127,11 +131,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |note|Medium|me|Indicates that the application will no longer receive the user's note updates.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -193,7 +196,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Conflict|409|MakeMeAvailableRequired|Returned when an application tries to get or set the user's note without first making the user available ([makeMeAvailable](makeMeAvailable_ref.md)).|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
@@ -288,7 +291,7 @@ Publish a new self note or reset the note.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |message|Sets the note message. If blank, the note will be reset.|No|
 
@@ -298,7 +301,7 @@ Publish a new self note or reset the note.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |message|Sets the note message. If blank, the note will be reset.String|No|
 
@@ -314,7 +317,7 @@ None
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Conflict|409|MakeMeAvailableRequired|Returned when an application tries to get or set the user's note without first making the user available ([makeMeAvailable](makeMeAvailable_ref.md)).|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|

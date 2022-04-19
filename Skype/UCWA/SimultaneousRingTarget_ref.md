@@ -1,4 +1,7 @@
-
+---
+title: SimultaneousRingTarget
+description: The target of simultaneous ring call forwarding, if enabled.
+---
 # SimultaneousRingTarget
 
 

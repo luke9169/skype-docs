@@ -1,3 +1,8 @@
+---
+title: stopPhoneAudio
+description: stopPhoneAudio stops the corresponding phone audio modality that is currently connecting or connected.
+---
+
 # stopPhoneAudio
 
  _**Applies to:** Skype for Business 2015_

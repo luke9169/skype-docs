@@ -1,3 +1,7 @@
+---
+title: Core capabilities
+description: Learn about the core features of Microsoft Unified Communications Web API 2.0.
+---
 
 # Core capabilities
 Learn about the core features of Microsoft Unified Communications Web API 2.0.

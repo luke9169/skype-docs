@@ -1,3 +1,6 @@
+---
+title: Skype for Business 2015 contactNote
+---
 # contactNote
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +15,7 @@ Represents a [contact](contact_ref.md)'s personal or out-of-office note.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +29,7 @@ contactNote aggregates the user's personal and out-of-office notes into one disp
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |message|A string representing the note text.|
 |type|The note type ([NoteType](NoteType_ref.md)) gives a hint to the user as to what type of note is being displayed, either Personal or OutOfOffice.|
@@ -37,16 +40,15 @@ contactNote aggregates the user's personal and out-of-office notes into one disp
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -55,11 +57,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Updated
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |contactNote|Medium|people|Indicates the contact's note has changed. The application may decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -125,7 +126,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
 |Forbidden|403|None|The user does not have sufficient privileges to access pending contacts|

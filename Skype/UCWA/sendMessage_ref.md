@@ -1,3 +1,8 @@
+---
+title: sendMessage
+description: Sends an instant message to the participants in a conversation.
+---
+
 # sendMessage
 
  _**Applies to:** Skype for Business 2015_

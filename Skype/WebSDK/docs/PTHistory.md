@@ -1,3 +1,7 @@
+---
+title: History
+description: This section describes the different operations you can perform with the history service.
+---
 
 # History
 

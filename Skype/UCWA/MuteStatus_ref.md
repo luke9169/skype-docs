@@ -1,4 +1,7 @@
-
+---
+title: MuteStatus
+description: MuteStatus represents the mute status for both audio and video.
+---
 # MuteStatus
 
 

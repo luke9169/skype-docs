@@ -1,4 +1,7 @@
-# Third Party Notices
+---
+title: Third Party Notices Trusted Application API
+---
+# Third Party Notices Trusted Application API
 
 THIRD PARTY NOTICES FILE
 

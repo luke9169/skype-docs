@@ -1,5 +1,5 @@
 ﻿---
-title: Using the Skype for Business SDN Interface
+title: Using the Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 TOCTitle: Using the Skype for Business SDN Interface
 ms:assetid: 542be3ea-3144-4e21-b320-c479cb0397bd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785190(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Using the Skype for Business SDN Interface
+# Using the Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

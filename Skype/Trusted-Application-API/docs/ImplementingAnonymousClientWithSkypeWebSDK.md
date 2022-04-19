@@ -1,3 +1,6 @@
+---
+title: Implementing an Anonymous Client with the Skype Web SDK
+---
 # Implementing a Anonymous Client with the Skype Web SDK
 
 This article will discuss the flow for _Anonymous Meeting Join_ involving the client-side functionality

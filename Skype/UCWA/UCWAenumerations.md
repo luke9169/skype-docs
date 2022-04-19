@@ -1,3 +1,7 @@
+---
+title: UCWA enumerations
+description: Reference pages for UCWA enumerations.
+---
 
 # UCWA enumerations
 Reference pages for UCWA enumerations.

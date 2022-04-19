@@ -1,5 +1,5 @@
 ﻿---
-title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) 
+title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: OverallAvgNetworkMOS element
 ms:assetid: 4bd89431-d42b-1271-f30d-282c75c154b8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404805(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# OverallAvgNetworkMOS element 
+# OverallAvgNetworkMOS element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

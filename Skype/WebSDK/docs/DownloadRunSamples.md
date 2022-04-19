@@ -1,4 +1,6 @@
-
+---
+title: Downloading and running the Skype Web SDK samples
+---
 # Downloading and running the Skype Web SDK samples
 
  _**Applies to:** Skype for Business 2015_

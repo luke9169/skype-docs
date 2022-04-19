@@ -1,4 +1,7 @@
-
+---
+title: AudienceMuteLock
+description: AudienceMuteLock represents the mute lock status for both audio and video.
+---
 # AudienceMuteLock
 
 

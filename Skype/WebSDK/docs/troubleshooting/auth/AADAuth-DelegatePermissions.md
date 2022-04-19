@@ -1,3 +1,8 @@
+---
+title: AAD Auth Failures
+description: Attempting to use the Azure AD authentication option to sign into the Skype for Business (SfB) Web SDK and you are seeing an AAD error page.
+---
+
 # AAD Auth Failures - Client requesting resource not in requiredResourceAccess list
 
 _"The client application has requested access to resource 'https://webdir.online.lync.com.' request has failed because the client has not specified this resource in its requiredResourceAccess list."_

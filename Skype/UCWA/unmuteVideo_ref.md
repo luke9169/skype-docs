@@ -1,3 +1,8 @@
+---
+title: unmuteVideo
+description: unmuteVideo unmutes a participant's video.
+---
+
 # unmuteVideo
 
  _**Applies to:** Skype for Business 2015_

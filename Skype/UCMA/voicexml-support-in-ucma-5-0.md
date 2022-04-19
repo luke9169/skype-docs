@@ -1,4 +1,5 @@
 ﻿---
+description: Learn about using IVR applications authored with VoiceXML applications in UCMA 5.0.
 title: VoiceXML support in UCMA 5.0
 TOCTitle: VoiceXML support in UCMA 5.0
 ms:assetid: 064392c2-b82a-4d1f-a239-8eabb8fae2c4
@@ -26,6 +27,6 @@ This section provides an introduction to the features that support VoiceXML appl
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml)
 - [Unified Communications Managed API (UCMA) 5.0 SDK documentation](unified-communications-managed-api-ucma-5-0-sdk-documentation.md)

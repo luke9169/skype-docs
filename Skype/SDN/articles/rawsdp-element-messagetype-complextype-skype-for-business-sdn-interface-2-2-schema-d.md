@@ -1,5 +1,5 @@
 ﻿---
-title: RawSDP element (MessageType complexType) 
+title: RawSDP element (MessageType complexType) (Schema D)
 TOCTitle: RawSDP element
 ms:assetid: b2fedf2d-7c27-b2fc-534b-bbbb2ffc862c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170954(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RawSDP element 
+# RawSDP element (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

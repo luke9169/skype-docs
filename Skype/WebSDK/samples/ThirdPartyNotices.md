@@ -1,4 +1,7 @@
-# Third Party Notices
+---
+title: Skype 2015 Third Party Notices amd Information
+---
+# Third Party Notices amd Information
 
 "The MIT License (MIT)
 

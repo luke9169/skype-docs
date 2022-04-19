@@ -1,3 +1,7 @@
+---
+title: Hypermedia
+description: A Microsoft Unified Communications Web API 2.0 application uses hypermedia links to discover and dynamically navigate the features that are currently available.
+---
 
 # Hypermedia
 A Microsoft Unified Communications Web API 2.0 application uses hypermedia links to discover and dynamically navigate the features that are currently available. 

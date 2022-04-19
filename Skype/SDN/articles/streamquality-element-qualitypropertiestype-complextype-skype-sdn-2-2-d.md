@@ -1,5 +1,5 @@
 ﻿---
-title: StreamQuality element (QualityPropertiesType complexType) 
+title: StreamQuality element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: StreamQuality element
 ms:assetid: dc0ff96d-4d78-caed-44a0-3849b2ffa941
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171001(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# StreamQuality element 
+# StreamQuality element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

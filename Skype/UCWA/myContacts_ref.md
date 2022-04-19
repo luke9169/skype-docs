@@ -1,3 +1,8 @@
+---
+title: Learn about myContacts, which is a collection of resources.
+description: A collection of contact resources that belong to the logged-on user.
+---
+
 # myContacts
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ A collection of contact resources that belong to the logged-on user.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -34,7 +39,7 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contact|Represents a person or service that the user can communicate and collaborate with.|
@@ -42,10 +47,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -58,11 +62,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |contact|High|people|Delivered when a contact resource is added.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -98,11 +101,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |contact|High|people|Delivered when a contact resource is deleted.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -154,7 +156,7 @@ Gets the list of contacts belonging to myContacts.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |expand|Optional query parameter to override default behavior when returning a collection of groups. Bydefault, a collection of all contact list groups will be returned with data inline. If this queryparameter is provided in the request with value of "false", then the collection of contact listgroups will be returned as links.|No|
 
@@ -178,7 +180,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
 |Forbidden|403|None|The user does not have sufficient privileges to access pending contacts|

@@ -1,4 +1,7 @@
-
+---
+title: SubscriptionState
+description: An enumeration of the various subscription states.
+---
 # SubscriptionState
 
 

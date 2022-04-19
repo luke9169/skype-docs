@@ -1,5 +1,5 @@
 ﻿---
-title: Port element (QualityEndPointType complexType) 
+title: Port element (QualityEndPointType complexType) (Schema C)
 TOCTitle: Port element (QualityEndPointType complexType)
 ms:assetid: f3f50a06-c9a7-37ce-4f97-288b2579faa0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404812(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Port element 
+# Port element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

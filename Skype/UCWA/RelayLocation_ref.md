@@ -1,3 +1,7 @@
+---
+title: RelayLocation
+description: RelayLocation indicates how the relay is reachable, from the internet or from the intranet.
+---
 
 # RelayLocation
 

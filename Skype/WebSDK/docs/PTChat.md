@@ -1,4 +1,7 @@
-
+---
+title: Chat
+description: This section describes the different operations you can perform on chat conversations.
+---
 # Chat
 
 

@@ -1,5 +1,5 @@
 ﻿---
-title: ResponsePhrase element (ErrorProperties complexType) 
+title: ResponsePhrase element (ErrorProperties complexType) (Schema C)
 TOCTitle: ResponsePhrase element
 ms:assetid: 2bf26bda-5530-ae73-af72-4fdb89a7ee83
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404843(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponsePhrase element 
+# ResponsePhrase element (Schema C)
 
 (ErrorProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

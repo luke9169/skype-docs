@@ -1,3 +1,8 @@
+---
+title: redirect
+description: redirect represents a pointer to a different server that the application should use for future requests.
+---
+
 # redirect
 
  _**Applies to:** Skype for Business 2015_

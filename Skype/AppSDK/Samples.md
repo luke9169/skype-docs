@@ -1,3 +1,6 @@
+---
+title: Sample applications for the Skype for Business App SDK
+---
 # Sample applications for the Skype for Business App SDK
 
 There are **Skype for Business App SDK** samples in our **GitHub** repositories for you to clone or download:

@@ -1,5 +1,5 @@
 ﻿---
-title: VideoFrameLossRate element (QualityPropertiesType complexType) 
+title: VideoFrameLossRate element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: VideoFrameLossRate element
 description: Information about the VideoFrameLossRate element (QualityPropertiesType complexType)
 ms:assetid: 5d4d2f9a-df99-40fe-bac5-39d89b3dfb5d
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# VideoFrameLossRate element (QualityPropertiesType complexType) 
+# VideoFrameLossRate element (QualityPropertiesType complexType) (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,6 +25,10 @@ Elements and attributes
 ## Element information
 
 <table>
+<colgroup>
+<col />
+<col />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -57,6 +61,11 @@ Elements and attributes
 ### Parent elements
 
 <table>
+<colgroup>
+<col />
+<col />
+<col />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

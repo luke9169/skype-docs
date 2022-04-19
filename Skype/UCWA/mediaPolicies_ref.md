@@ -1,3 +1,8 @@
+---
+title: mediaPolicies for Skype for Business 2015
+description: Represents a resource that allows clients to fetch all media-related settings that
+cannot be modeled as capability links or properties of individual resources.
+---
 # mediaPolicies
 
  _**Applies to:** Skype for Business 2015_
@@ -54,8 +59,6 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -64,9 +67,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|

@@ -38,9 +38,9 @@ The **cacheLinks** function caches links based on the supplied data.
 
 
 
-|**Parameter** |**Description**|
-|:-----|:-----|
-|data|The data object to be stored in the cache.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| data | The data object to be stored in the cache. |
 
  **Syntax**
 
@@ -110,10 +110,11 @@ The **findEmbeddedLinkInCache** function finds a resource link stored in the sin
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|target|Target embedded resource.|
-|resource|Link to find in the embedded resource.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| target | Target embedded resource. |
+| resource | Link to find in the embedded resource. |
+
  **Returns:** Resource link if found, or an empty string.
 
  **Syntax**
@@ -168,9 +169,10 @@ The **findLinkInCache** function finds a resource link stored in the singleton c
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|resource|Link to find in the cache.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| resource | Link to find in the cache. |
+
  **Returns:** Resource link if found, or an empty string.
 
  **Syntax**
@@ -225,10 +227,11 @@ The **findLinkInResource** function looks for a "rel" link that is stored in the
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|rel|The relation type of the link to find in the data object.|
-|data|The data object to be searched.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| rel | The relation type of the link to find in the data object. |
+| data | The data object to be searched. |
+
  **Returns:** The "rel" link if found, or an empty string.
 
  **Syntax**
@@ -288,9 +291,10 @@ The **read** function retrieves data received by way of the event channel from t
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|href|Link to find in the cache.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| href | Link to find in the cache. |
+
  **Returns:** The data from the cache or an empty string ("").
 
  **Syntax**

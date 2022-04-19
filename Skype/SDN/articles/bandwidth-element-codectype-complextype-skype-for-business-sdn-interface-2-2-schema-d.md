@@ -1,5 +1,5 @@
 ﻿---
-title: Bandwidth element (CodecType complexType) 
+title: Bandwidth element (CodecType complexType) Schema D
 TOCTitle: Bandwidth element (CodecType complexType)
 ms:assetid: 73e20c7f-93d5-586a-fd1b-f15bb6bd50a0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149429(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Bandwidth element 
+# Bandwidth element CodecType complexType)Schema D
 
 (CodecType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

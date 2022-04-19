@@ -1,5 +1,5 @@
 ﻿---
-title: Understanding Skype for Business SDN Interface
+title: Understanding Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 TOCTitle: Understanding Skype for Business SDN Interface
 ms:assetid: 4c97bce1-4b8b-4c13-8ec6-99eed59d88fc
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785193(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Understanding Skype for Business SDN Interface
+# Understanding Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

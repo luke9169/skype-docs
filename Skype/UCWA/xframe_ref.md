@@ -1,3 +1,8 @@
+---
+title: xframe
+description: xframe represents the cross-domain frame used for web-based applications.
+---
+
 # xframe
 
  _**Applies to:** Skype for Business 2015_

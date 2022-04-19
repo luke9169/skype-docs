@@ -146,7 +146,7 @@ The most important thing about this scenario is that the UCMA 2.0 application is
 
 ## Install the UCMA 2.0 application
 
-Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](https://docs.microsoft.com/previous-versions/office/developer/communication-server-2007-R2/dd280155(v=office.13)).
+Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](/previous-versions/office/developer/communication-server-2007-R2/dd280155(v=office.13)).
 
 ## Add AllowedDomains using WBemTest
 

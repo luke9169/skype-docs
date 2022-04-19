@@ -1,5 +1,5 @@
 ﻿---
-title: ResponseCodeType complexType 
+title: ResponseCodeType complexType (Schema D)
 TOCTitle: ResponseCodeType complexType
 ms:assetid: 5e7155e9-7fb2-4e50-e765-e863d1a60596
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171071(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponseCodeType complexType 
+# ResponseCodeType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -24,8 +24,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -72,11 +72,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

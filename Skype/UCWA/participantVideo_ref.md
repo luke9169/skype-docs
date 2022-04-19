@@ -1,3 +1,7 @@
+---
+title: participantVideo
+description: participantVideo represents whether a participant is using the main video modality in a conversation.
+---
 # participantVideo
 
  _**Applies to:** Skype for Business 2015_
@@ -35,8 +39,6 @@ This resource helps the application track when a participant joins or leaves thi
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -48,9 +50,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -61,13 +62,13 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantVideo|High|conversation|Indicates that a participant is now using the main video modality. The application can choose to fetch the updated information.</p><p></p>|
 |participantVideo|High|conversation|Indicates that the user is now using the main video modality.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -102,13 +103,13 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantVideo|High|conversation|Indicates that a participant's main video modality has changed. The application can choose to fetch the updated information.</p><p></p>|
 |participantVideo|High|conversation|Indicates that the user's main video modality has changed.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -143,13 +144,13 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantVideo|High|conversation|Indicates that a participant is no longer using the main video modality. The application can choose to fetch the updated information.</p><p></p>|
 |participantVideo|High|conversation|Indicates that the user is no longer using the main video modality.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

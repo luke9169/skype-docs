@@ -1,3 +1,7 @@
+---
+title: Delete a presence subscription
+description: Delete an active presence subscription.
+---
 
 # Delete a presence subscription
 Delete an active presence subscription.

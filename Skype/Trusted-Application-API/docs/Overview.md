@@ -1,3 +1,6 @@
+---
+title: Trusted Application API - Public Preview
+---
 # **Trusted Application API (Public Preview)**
 
 > [!NOTE] 

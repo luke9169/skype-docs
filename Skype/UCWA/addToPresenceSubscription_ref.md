@@ -1,3 +1,8 @@
+---
+title: addToPresenceSubscription
+description: addToPresenceSubscription represents the capability to add contacts to a presenceSubscription.
+---
+
 # addToPresenceSubscription
 
  _**Applies to:** Skype for Business 2015_
@@ -36,9 +41,8 @@ None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|

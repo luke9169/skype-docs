@@ -1,3 +1,8 @@
+---
+title: startAudio2
+description: startAudio2 represents an operation to start AudioVideo. This token indicates the user has ability to start only audio.
+---
+
 # startAudio2
 
  _**Applies to:** Skype for Business 2015_

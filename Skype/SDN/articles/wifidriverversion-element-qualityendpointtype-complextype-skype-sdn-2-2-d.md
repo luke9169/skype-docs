@@ -1,5 +1,5 @@
 ﻿---
-title: WifiDriverVersion element (QualityEndPointType complexType) 
+title: WifiDriverVersion element (QualityEndPointType complexType) (Schema D)
 TOCTitle: WifiDriverVersion element
 ms:assetid: 3a1b3c3f-1d06-fa09-6b9f-93aa4935dab4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171036(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# WifiDriverVersion element 
+# WifiDriverVersion element (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

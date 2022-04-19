@@ -1,16 +1,17 @@
 ﻿---
-title: Codec element (StartPropertiesType complexType) 
+title: Codec element (StartPropertiesType complexType) Schema C
 TOCTitle: Codec element (StartPropertiesType complexType)
 ms:assetid: 580d5efd-e174-cc1d-9992-15d996f7cfe3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404719(v=office.16)
 ms:contentKeyID: 68250632
+description: Codec and estimates for the bandwidth that the codecs will use. This list contains all codecs that are agreed upon by the two endpoints.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Codec element 
+# Codec element Schema C
 
 (StartPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

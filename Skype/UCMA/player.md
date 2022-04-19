@@ -14,7 +14,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-The [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) class represents an entity that is capable of playing media to one or more media flows, and as such, provides a simple, scalable way to play an audio segment in a Windows Media Audio (WMA) file to multiple listeners. A **Player** instance renders the media that is represented by an instance of a subclass of the [MediaSource](https://msdn.microsoft.com/library/hh348635\(v=office.16\)) abstract base class. The output from a **Player** instance goes to one or more [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instances.
+The [Player](/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) class represents an entity that is capable of playing media to one or more media flows, and as such, provides a simple, scalable way to play an audio segment in a Windows Media Audio (WMA) file to multiple listeners. A **Player** instance renders the media that is represented by an instance of a subclass of the [MediaSource](https://msdn.microsoft.com/library/hh348635\(v=office.16\)) abstract base class. The output from a **Player** instance goes to one or more [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instances.
 
 A **Player** acts as a pointer to a **MediaSource** object, and determines the current position to play in the media.
 
@@ -62,7 +62,7 @@ The **Player** class is scalable. In buffered mode, the **MediaSource** caches e
 
 ## Example – using a player
 
-The following code example shows the steps involved in using a [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api).
+The following code example shows the steps involved in using a [Player](/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api).
 
 > [!WARNING]
 > This code example is not a complete example. Several methods, properties, and events are used in this example, but are not defined within the example.

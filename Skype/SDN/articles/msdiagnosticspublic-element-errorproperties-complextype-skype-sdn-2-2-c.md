@@ -1,6 +1,7 @@
 ﻿---
-title: MSDiagnosticsPublic element (ErrorProperties complexType) 
+title: MSDiagnosticsPublic element (ErrorProperties complexType), schema C
 TOCTitle: MSDiagnosticsPublic element (ErrorProperties complexType)
+description: More information about MSDiagnosticsPublic element (ErrorProperties complexType), schema C.
 ms:assetid: 6e77e72c-0ce9-94ac-a258-d7d629aff189
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404800(v=office.16)
 ms:contentKeyID: 68250712
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element 
+# MSDiagnosticsPublic element, schema C
 
 (ErrorProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

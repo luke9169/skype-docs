@@ -1,6 +1,7 @@
 ﻿---
-title: URI element (EndPointType complexType) 
+title: URI element (EndPointType complexType) schema C
 TOCTitle: URI element (EndPointType complexType)
+description: Information about the URI element (EndPointType complexType) schema C.
 ms:assetid: bb410e90-f652-b1be-2dc7-7e350698e3b9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429335(v=office.16)
 ms:contentKeyID: 68250777
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (EndPointType complexType) schema C
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

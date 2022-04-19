@@ -1,3 +1,7 @@
+---
+title: applicationSharing reference
+description: The applicationSharing resource represents the application sharing modality in the corresponding conversation.
+---
 # applicationSharing
 
  _**Applies to:** Skype for Business 2015_
@@ -11,7 +15,6 @@ Represents the application sharing modality in the corresponding [conversation](
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -24,15 +27,11 @@ In this version of the API, viewing or sharing of content is not supported.Howev
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |state|The state of the modality, such as Connecting, Connected, or Disconnected.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -45,9 +44,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -58,12 +56,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |applicationSharing|High|conversation|Indicates that the application sharing modality was updated.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

@@ -1,11 +1,11 @@
 ---
-title: Configuring the SDN manager by editing the config file
+title: Learn how to configure the SDN manager by editing the config file
 description: Learn how to edit the appSettings section in the configuration file.
 ms.date: 03/30/2022
 ms.assetid: 717466aa-c6b2-42ab-8492-8d2f4bed7765
 ---
 
-# Configuring the SDN manager by editing the config file
+# Learn how to configure the SDN manager by editing the config file
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 

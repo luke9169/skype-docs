@@ -1,5 +1,5 @@
 ﻿---
-title: Average element (BandwidthType complexType) 
+title: Average element (BandwidthType complexType) Schema C
 TOCTitle: Average element
 ms:assetid: e63cc213-fccf-588a-8a67-a9f2efd1822a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404705(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Average element 
+# Average element (Schema C)
 
 (BandwidthType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

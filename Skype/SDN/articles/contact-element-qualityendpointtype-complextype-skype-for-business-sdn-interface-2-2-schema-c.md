@@ -1,5 +1,5 @@
 ﻿---
-title: Contact element (QualityEndPointType complexType) 
+title: Contact element (QualityEndPointType complexType) (Schema C)
 TOCTitle: Contact element (QualityEndPointType complexType)
 ms:assetid: 686ca518-a697-0cb2-9c3e-4263a2a72e1b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404727(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

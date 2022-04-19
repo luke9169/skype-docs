@@ -1,5 +1,5 @@
 ﻿---
-title: MediationServerLegPosition element (ConnectionInfoType complexType) 
+title: MediationServerLegPosition element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: MediationServerLegPosition element
 ms:assetid: 340e2dd8-fec7-5728-2688-3a0bae1aef4b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170917(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MediationServerLegPosition element 
+# MediationServerLegPosition element (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

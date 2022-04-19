@@ -1,5 +1,5 @@
 ﻿---
-title: New features in Skype for Business SDN Interface
+title: New features in Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 TOCTitle: New features in Skype for Business SDN Interface
 ms:assetid: a0ef6ad8-c0a2-425f-b236-dc4907efa22b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785195(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/28/2017
 mtps_version: v=office.16
 ---
 
-# New features in Skype for Business SDN Interface
+# New features in Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

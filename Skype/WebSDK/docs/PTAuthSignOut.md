@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 Sign Out
+---
 # Sign Out
 
  _**Applies to:** Skype for Business 2015_

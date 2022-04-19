@@ -1,5 +1,5 @@
 ﻿---
-title: RecvSignalLevel element (QualityPropertiesType complexType) 
+title: RecvSignalLevel element (QualityPropertiesType complexType) Schema D
 TOCTitle: RecvSignalLevel element
 ms:assetid: faec1495-0a59-9bd3-2ecf-f24e2963d293
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170962(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RecvSignalLevel element 
+# RecvSignalLevel element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

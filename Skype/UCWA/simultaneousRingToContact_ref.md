@@ -1,3 +1,8 @@
+---
+title: simultaneousRingToContact
+description: Simultaneously send all incoming calls to a user-provided number or contact in addition to the user.
+---
+
 # simultaneousRingToContact
 
  _**Applies to:** Skype for Business 2015_

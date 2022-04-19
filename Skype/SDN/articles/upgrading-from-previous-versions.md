@@ -1,11 +1,11 @@
 ---
-title: Upgrading from previous version of the SDN Interface
- 
+title: Upgrading from previous versions of the SDN Interface (Lync Server 2013 | Skype for Business 2015)
+description: This topic covers upgrading Skype for Business SDN Interface from earlier versions to version 3.0.
 ms.assetid: 8d3c28fa-dabe-4a52-9882-a6663ced5217
 ---
 
 
-# Upgrading from previous version of the SDN Interface
+# Upgrading from previous versions of the SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
   
@@ -57,7 +57,7 @@ When upgrading from version 2.2 to 3.0, follow the instructions below without dr
   - Install the 3.0 SdnManager. 
   - While upgrade is being performed on an SdnManager in a pool, the other SdnManagers in the pool may continue to run on the previous version. 
   - Once upgraded, an SdnManager can be started up while other SdnManagers continue to run on the older version, as the pool is upgraded one server at a time. 
-3. Remove and re-add each Subscriber (For each 'Subscriber.<Identifier>.xml' file): 
+3. Remove and re-add each Subscriber (For each 'Subscriber.\<Identifier>.xml' file): 
   - Invoke `SdnManager /r s <Identifier>` to remove the individual 2.2 Subscriber. 
   - Invoke `SdnManager /u s <Identifier> Subscriber.<Identifier>.xml` to re-add an individual 3.0 Subscriber configuration. 
 4. For each DialogListener instance: 

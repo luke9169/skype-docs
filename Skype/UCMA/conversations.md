@@ -8,7 +8,7 @@ ms.date: 07/27/2015
 mtps_version: v=office.16
 ---
 
-# Conversations
+# Conversations (unified communications managed API 5.0)
 
 **Applies to**: Skype for Business 2015
 

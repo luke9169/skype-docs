@@ -1,3 +1,7 @@
+---
+title: contactSupportedModalities reference
+description: Represents the communication modalities supported by a contact.
+---
 # contactSupportedModalities
 
  _**Applies to:** Skype for Business 2015_
@@ -32,8 +36,6 @@ This resource gives the set of modalities currently supported by a [contact](con
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -42,9 +44,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -54,12 +55,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contactSupportedModalities|Medium|people|Indicates the contact's supported modalities for communication have changed (i.e. PhoneAudio is now possible because a telephone number was given).The application may decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

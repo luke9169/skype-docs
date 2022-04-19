@@ -1,4 +1,7 @@
-
+---
+title: ConversationState
+description: ConversationState represents the state of a [conversation](conversation_ref.md) instance.
+---
 # ConversationState
 
 

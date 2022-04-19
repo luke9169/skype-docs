@@ -1,5 +1,5 @@
 ﻿---
-title: QualityUpdate element (MessageType complexType) 
+title: QualityUpdate element (MessageType complexType) (Schema C)
 TOCTitle: QualityUpdate element
 ms:assetid: 853d90f7-9f35-f2c7-7aa3-64f0121ef4f5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404819(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityUpdate element 
+# QualityUpdate element (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +56,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -85,11 +76,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -125,13 +111,6 @@ Elements and attributes
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

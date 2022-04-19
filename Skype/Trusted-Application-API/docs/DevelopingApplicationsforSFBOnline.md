@@ -1,4 +1,6 @@
-
+---
+title: Developing Trusted Application API applications for Skype for Business Online
+---
 # Developing **Trusted Application API** applications for Skype for Business Online
 
 > [!NOTE] 

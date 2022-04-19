@@ -1,3 +1,6 @@
+---
+title: removeContactFromAllGroups2 reference
+---
 # removeContactFromAllGroups2
 
  _**Applies to:** Skype for Business 2015_

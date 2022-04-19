@@ -1,3 +1,8 @@
+---
+title: promote
+description: Promotes the corresponding participant from the attendee role to the leader role.
+---
+
 # promote
 
  _**Applies to:** Skype for Business 2015_

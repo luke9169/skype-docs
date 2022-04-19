@@ -1,3 +1,7 @@
+---
+title: Get my photo
+description: Get the me user's photo.
+---
 
 # Get my photo
 Get the **me** user's photo.

@@ -1,5 +1,5 @@
 ﻿---
-title: RenderDeviceDriver element (QualityPropertiesType complexType) 
+title: RenderDeviceDriver element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: RenderDeviceDriver element
 ms:assetid: 5f8e0e61-6955-4734-f819-f5f45690675a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170983(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RenderDeviceDriver element 
+# RenderDeviceDriver element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

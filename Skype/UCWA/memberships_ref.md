@@ -33,10 +33,10 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
-|:-----|:-----|
-|self|The link to the current resource.|
-|presenceSubscriptionMembership|Represents the [presenceSubscription](presenceSubscription_ref.md) membership of a single [contact](contact_ref.md).|
+| **Link** | **Description** |
+| ----- | ----- |
+| self | The link to the current resource. |
+| presenceSubscriptionMembership | Represents the [presenceSubscription](presenceSubscription_ref.md) membership of a single [contact](contact_ref.md). |
 
 ### Azure Active Directory scopes for online applications
 
@@ -44,9 +44,9 @@ This resource can have the following relationships.
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| User.ReadWrite | Read/write Skype user information |Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user |
 
 ## Operations
 

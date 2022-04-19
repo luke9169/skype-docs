@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceHowlingEventCount element (QualityPropertiesType complexType) 
+title: DeviceHowlingEventCount element (QualityPropertiesType complexType) Schema D
 TOCTitle: DeviceHowlingEventCount element
 ms:assetid: 09ee9cad-554d-56de-0498-1bc8b1d63f53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149472(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceHowlingEventCount element 
+# DeviceHowlingEventCount element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

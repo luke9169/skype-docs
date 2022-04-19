@@ -1,3 +1,8 @@
+---
+title: phones
+description: A collection of phone resources that represent the phone numbers of the logged-on user.
+---
+
 # phones
 
  _**Applies to:** Skype for Business 2015_

@@ -1,3 +1,7 @@
+---
+title: Listening for and generating presence events
+description: Listen for other user's presence changes and how to post user presence changes to Skype for Business Server.
+---
 
 # Listening for and generating presence events
 

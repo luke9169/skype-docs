@@ -1,3 +1,6 @@
+---
+title: Skype Business Online Providing a conference URI to join a meeting 
+---
 # Prerequisites
 - Bootstrap Skype Web SDK
 - Sign-In

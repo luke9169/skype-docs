@@ -1,5 +1,5 @@
 ﻿---
-title: Bandwidth element (StartPropertiesType complexType) 
+title: Bandwidth element (StartPropertiesType complexType) Schema D 
 TOCTitle: Bandwidth element (StartPropertiesType complexType)
 ms:assetid: 58a54ad9-047f-139f-0609-d42c27d00f76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149430(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Bandwidth element 
+# Bandwidth element (Schema D)
 
 (StartPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

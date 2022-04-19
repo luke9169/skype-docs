@@ -1,4 +1,6 @@
-
+---
+title: Architecture UCWA
+---
 # Architecture
 Learn about the Skype for Business Server architecture as it relates to Microsoft Unified Communications Web API 2.0.
 

@@ -1,3 +1,7 @@
+---
+title: delegatorsGroup reference
+description: The delegatorsGroup in Skype for Business 2015 represents a group of users designated as delegates.
+---
 # delegatorsGroup
 
  _**Applies to:** Skype for Business 2015_
@@ -24,16 +28,12 @@ A delegates group is a logical container for users authorized as delegates.An ap
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |id|The group's ID.|
 |name|The group's name.The maximum length is 256 characters.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -45,9 +45,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -57,13 +56,13 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |delegatorsGroup|High|people|Indicates that the delegators group was added. The application can decide to fetchthe updated information.</p><p></p>|
 |contact|Low|people|Indicates that a specific delegator was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -103,7 +102,9 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |delegatorsGroup|High|people|Indicates that the delegators group has been updated. The application can decide to fetch theupdated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -140,7 +141,9 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |:-----|:-----|:-----|:-----|
 |delegatorsGroup|High|people|Indicates that the delegators group was deleted. The application can decide tofetch the updated information.</p><p></p>|
 |contact|Low|people|Indicates that a specific delegator was deleted from this group. The application can decide tofetch the updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

@@ -1,5 +1,5 @@
 ﻿---
-title: QualityPropertiesType complexType 
+title: QualityPropertiesType complexType (Schema D)
 TOCTitle: QualityPropertiesType complexType
 ms:assetid: 5f29a3bf-13f8-d672-f6f6-51f33e28b145
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171070(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityPropertiesType complexType 
+# QualityPropertiesType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -23,10 +23,6 @@ Elements and attributes
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -57,11 +53,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

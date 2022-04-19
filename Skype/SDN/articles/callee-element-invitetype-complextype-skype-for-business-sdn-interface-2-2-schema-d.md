@@ -1,16 +1,17 @@
 ﻿---
-title: Callee element (InviteType complexType) 
+title: Callee element (InviteType complexType) (Schema D)
 TOCTitle: Callee element
 ms:assetid: 32714871-4bd4-3619-447b-3890c8177ad2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149439(v=office.16)
 ms:contentKeyID: 65855384
+description: (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema D)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Callee element 
+# Callee element (Schema D)
 
 (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

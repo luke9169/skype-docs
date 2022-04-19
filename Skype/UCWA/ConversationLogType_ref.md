@@ -1,3 +1,7 @@
+---
+title: ConversationLogType
+description: ConversationLogType represents the type of a call instance.
+---
 
 # ConversationLogType
 

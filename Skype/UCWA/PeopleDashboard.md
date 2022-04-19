@@ -1,3 +1,7 @@
+---
+title: People dashboard
+description: The people resource acts as a dashboard that represents the user's contacts.
+---
 
 # People dashboard
 The **people** resource acts as a dashboard that represents the user's contacts.

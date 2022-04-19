@@ -15,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-A [SpeechRecognitionConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance can transfer audio data from a **SpeechRecognitionEngine** instance (in the **Microsoft.Speech** namespace) to an [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance that is attached to the **SpeechRecognitionConnector** instance.
+A [SpeechRecognitionConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance can transfer audio data from a **SpeechRecognitionEngine** instance (in the **Microsoft.Speech** namespace) to an [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance that is attached to the **SpeechRecognitionConnector** instance.
 
 The stream of audio data produced by a **SpeechRecognitionConnector** instance is compatible with that produced by the **Microsoft.Speech** namespace in Microsoft .NET Framework 3.0 and later. One such stream is provided every time [Start](https://msdn.microsoft.com/library/hh349784\(v=office.16\)) is called on the **SpeechRecognitionConnector**. The stream contains the audio up to the point at which [Stop](https://msdn.microsoft.com/library/hh384349\(v=office.16\)) is called on the connector. Calling **Start** again then generates a new stream for the new interval.
 
@@ -23,7 +23,7 @@ Before an application can call the **Start** method on a **SpeechRecognitionConn
 
 ## Example
 
-The following procedure describes the steps involved in creating and using a [SpeechRecognitionConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance.
+The following procedure describes the steps involved in creating and using a [SpeechRecognitionConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance.
 
 ### To use SpeechRecognitionConnector
 
@@ -33,7 +33,7 @@ The following procedure describes the steps involved in creating and using a [Sp
     SpeechRecognitionConnector recoConn = new SpeechRecognitionConnector();
     ```
 
-2.  Attach an [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance (assumed to have been previously constructed and in the **Active** state).
+2.  Attach an [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance (assumed to have been previously constructed and in the **Active** state).
     
     ```csharp
     recoConn.AttachFlow(AudioVideoFlow);

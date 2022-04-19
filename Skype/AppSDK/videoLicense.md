@@ -1,3 +1,6 @@
+---
+title: Video codec license terms
+---
 # Video codec license terms
 
 You must show the following licencing language exactly as it is reproduced here. The App SDK download package contains the video codec license as the **Skype for Business App SDK Codec End User License Terms.pdf** file:

@@ -51,9 +51,9 @@ The application initializes the platform to start listening on behalf of a user,
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice)
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
 - [Contextual communication](contextual-communication.md)
 - [Conversation context channel](conversation-context-channel.md)
-- [Register contextual conversation packages](https://docs.microsoft.com/lync/desktop/register-contextual-conversation-packages)
+- [Register contextual conversation packages](/lync/desktop/register-contextual-conversation-packages)
 

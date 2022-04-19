@@ -1,5 +1,5 @@
 ﻿---
-title: RecvListenMOSMin element (QualityPropertiesType complexType) 
+title: RecvListenMOSMin element (QualityPropertiesType complexType) Schema D
 TOCTitle: RecvListenMOSMin element
 ms:assetid: 2314a370-96c9-db30-62cd-1a7552f47e33
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170961(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RecvListenMOSMin element 
+# RecvListenMOSMin element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,5 @@
 ﻿---
-title: RelayPort element (EndPointType complexType) 
+title: RelayPort element (EndPointType complexType) (Schema C)
 TOCTitle: RelayPort element (EndPointType complexType)
 ms:assetid: 9416dd4e-6a40-de7d-ac7b-e96877143c1d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404838(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element 
+# RelayPort element (EndPointType complexType) (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +56,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,3 +1,8 @@
+---
+title: contactPrivacyRelationship2
+description: contactPrivacyRelationship2 represents the privacy relationship between the user and a contact.
+---
+
 # contactPrivacyRelationship2
 
  _**Applies to:** Skype for Business 2015_

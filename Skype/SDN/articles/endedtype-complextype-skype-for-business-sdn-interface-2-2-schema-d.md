@@ -1,5 +1,5 @@
 ﻿---
-title: EndedType complexType 
+title: EndedType complexType (Schema D)
 TOCTitle: EndedType complexType
 ms:assetid: a8a6b72b-fa8b-881c-7e8e-491644b731dc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171060(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndedType complexType 
+# EndedType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

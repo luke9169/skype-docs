@@ -1,3 +1,8 @@
+---
+title: participantDataCollaboration
+description: participantDataCollaboration represents whether a participant is using the data collaboration modality in a conversation.
+---
+
 # participantDataCollaboration
 
  _**Applies to:** Skype for Business 2015_

@@ -1,5 +1,5 @@
 ﻿---
-title: Contact element (InviteEndPointType complexType) 
+title: Contact element (InviteEndPointType complexType) (Schema D)
 TOCTitle: Contact element (InviteEndPointType complexType)
 ms:assetid: a4ab18bd-b57f-2249-9d86-b389661cfa1f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149458(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

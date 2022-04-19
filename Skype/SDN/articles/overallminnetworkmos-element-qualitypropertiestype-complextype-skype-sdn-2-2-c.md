@@ -1,5 +1,5 @@
 ﻿---
-title: OverallMinNetworkMOS element (QualityPropertiesType complexType) 
+title: OverallMinNetworkMOS element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: OverallMinNetworkMOS element
 ms:assetid: 54fb52db-c10d-2b39-918b-080f083cfa15
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404806(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# OverallMinNetworkMOS element 
+# OverallMinNetworkMOS element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

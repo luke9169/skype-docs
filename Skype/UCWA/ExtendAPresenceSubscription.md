@@ -1,3 +1,7 @@
+---
+title: Extend a presence subscription
+description: Extend a presence subscription beyond its normal expiration time.
+---
 
 # Extend a presence subscription
 Extend a presence subscription beyond its normal expiration time.

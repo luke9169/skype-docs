@@ -1,3 +1,7 @@
+---
+title: Devices Manager
+description: This section describes the different operations you can perform with the devicesManager API.
+---
 
 # Devices Manager
 

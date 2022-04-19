@@ -1,5 +1,5 @@
 ﻿---
-title: EchoPercentSend element (QualityPropertiesType complexType) 
+title: EchoPercentSend element (QualityPropertiesType complexType) (Schema C) 
 TOCTitle: EchoPercentSend element
 ms:assetid: acd3ed18-ec25-9832-9ba5-82cd9206bc76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404752(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EchoPercentSend element 
+# EchoPercentSend element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,8 +61,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
 <col />
 </colgroup>
 <thead>

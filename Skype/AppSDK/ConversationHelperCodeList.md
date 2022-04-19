@@ -1,3 +1,6 @@
+---
+title: The ConversationHelper class
+---
 # The ConversationHelper class
 
 The Skype for Business App SDK for Android ships with the ConversationHelper.java source file, found in

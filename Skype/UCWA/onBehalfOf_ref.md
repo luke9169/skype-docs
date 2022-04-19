@@ -1,3 +1,8 @@
+---
+title: onBehalfOf
+description: onBehalfOf represents the contact on whose behalf the invitation was received.
+---
+
 # onBehalfOf
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the [contact](contact_ref.md) on whose behalf the invitation was rece
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +31,7 @@ This resource is usually present in an incoming invitation when a delegate makes
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |company|The name of the contact's company.|
 |department|The name of the contact's department.|
@@ -49,7 +54,7 @@ This resource is usually present in an incoming invitation when a delegate makes
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contactLocation|Represents a [contact](contact_ref.md)'s location.|
@@ -64,7 +69,8 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -100,7 +106,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|Returned when an application does not have permission to view this contact's information.|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|

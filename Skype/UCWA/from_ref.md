@@ -1,3 +1,8 @@
+---
+title: from
+description: from represents the participant that sent an invitation.
+---
+
 # from
 
  _**Applies to:** Skype for Business 2015_

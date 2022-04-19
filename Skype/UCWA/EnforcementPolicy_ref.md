@@ -1,3 +1,7 @@
+---
+title: EnforcementPolicy
+description: An enumeration that indicates whether policy is enforced/supported/non-supported.
+---
 
 # EnforcementPolicy
 

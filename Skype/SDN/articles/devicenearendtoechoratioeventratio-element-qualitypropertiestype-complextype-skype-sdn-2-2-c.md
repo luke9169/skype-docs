@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) 
+title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) Schema C
 TOCTitle: DeviceNearEndToEchoRatioEventRatio element
 ms:assetid: 53f02a64-558e-169b-0699-d862595bdb22
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404745(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceNearEndToEchoRatioEventRatio element 
+# DeviceNearEndToEchoRatioEventRatio element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

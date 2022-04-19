@@ -1,5 +1,5 @@
 ﻿---
-title: Protocol element (StartPropertiesType complexType) 
+title: Protocol element (StartPropertiesType complexType) (Schema C)
 TOCTitle: Protocol element (StartPropertiesType complexType)
 ms:assetid: 9bc50ce2-21d8-06f7-7e5d-af432a632761
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404818(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Protocol element 
+# Protocol element (StartPropertiesType complexType) (Schema C)
 
 (StartPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

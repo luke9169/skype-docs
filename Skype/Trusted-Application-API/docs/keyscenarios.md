@@ -1,3 +1,6 @@
+---
+title: Skype for Business - Trusted Application Key scenarios
+---
 # Key scenarios
 
 In general, Trusted Application scenarios can be grouped into two categories:

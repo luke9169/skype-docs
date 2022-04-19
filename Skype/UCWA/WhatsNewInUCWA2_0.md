@@ -1,3 +1,7 @@
+---
+title: What's New in UCWA 2.0
+description: This page lists new features in UCWA 2.0.
+---
 
 # What's New in UCWA 2.0
 

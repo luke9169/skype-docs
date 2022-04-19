@@ -1,5 +1,5 @@
 ﻿---
-title: Properties element (StartOrUpdateType complexType) 
+title: Properties element (StartOrUpdateType complexType) (Schema C)
 TOCTitle: Properties element (StartOrUpdateType complexType)
 ms:assetid: 02bbebb5-4c55-7fe0-59b7-013bd0697c49
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404810(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element 
+# Properties element (Schema C)
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -91,9 +91,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

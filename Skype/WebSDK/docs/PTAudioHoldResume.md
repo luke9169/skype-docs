@@ -1,3 +1,6 @@
+---
+title: Hold or Resume a P2P Audio Conversation
+---
 # Hold/Resume a P2P Audio Conversation
 
 _**Applies to:** Skype for Business 2015_

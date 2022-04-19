@@ -1,5 +1,5 @@
 ﻿---
-title: VideoPacketLossRate element (QualityPropertiesType complexType) 
+title: VideoPacketLossRate element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: VideoPacketLossRate element
 ms:assetid: 493f8d16-c335-cc90-355b-16c03e86a7fa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429340(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# VideoPacketLossRate element 
+# VideoPacketLossRate element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

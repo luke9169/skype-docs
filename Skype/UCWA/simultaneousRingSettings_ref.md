@@ -1,3 +1,8 @@
+---
+title: simultaneousRingSettings
+description: simultaneousRingSettings represents a user's settings to simultaneously send incoming calls to a specified target.
+---
+
 # simultaneousRingSettings
 
  _**Applies to:** Skype for Business 2015_

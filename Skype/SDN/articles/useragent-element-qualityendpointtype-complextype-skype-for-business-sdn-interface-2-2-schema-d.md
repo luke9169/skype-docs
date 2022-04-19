@@ -27,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col>
-<col>
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -63,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col>
-<col>
-<col>
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -97,11 +97,11 @@ None.
 
 <table>
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,6 +1,7 @@
 ﻿---
-title: UserAgent element (ByeEndPointType complexType) 
+title: UserAgent element (ByeEndPointType complexType), schema D
 TOCTitle: UserAgent element (ByeEndPointType complexType)
+description: Skype for Business client name and version.
 ms:assetid: 4de7467b-94e4-0733-fb24-9feb907b570f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171024(v=office.16)
 ms:contentKeyID: 65855598
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# UserAgent element 
+# UserAgent element, schema D 
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -90,13 +82,6 @@ None.
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

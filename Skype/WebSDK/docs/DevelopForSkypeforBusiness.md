@@ -1,4 +1,7 @@
-
+---
+title: Developing Web SDK applications for Skype for Business Server
+description: This section shows how to develop a Skype Web SDK client application for Skype for Business Server.
+---
 # Developing Web SDK applications for Skype for Business Server
 
 

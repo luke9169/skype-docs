@@ -1,5 +1,5 @@
 ﻿---
-title: RoundTrip element (QualityPropertiesType complexType) 
+title: RoundTrip element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: RoundTrip element
 ms:assetid: a2a7cca8-5d43-efca-5e54-201a7a968966
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170988(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RoundTrip element 
+# RoundTrip element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

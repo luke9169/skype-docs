@@ -18,15 +18,15 @@ This topic provides the details of using the trusted conferencing user model in 
 
 ## Use the trusted conferencing user capability in an application
 
-1.  Create and start a [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance.
+1.  Create and start a [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance.
 
-2.  Create and establish an [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
+2.  Create and establish an [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
 
 3.  Create a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) instance.
 
 4.  Join the [ConferenceSession](https://msdn.microsoft.com/library/hh349315\(v=office.16\)).
 
-5.  Create an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance.
+5.  Create an [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance.
 
 6.  Establish the **AudioVideoCall** instance.
 
@@ -40,7 +40,7 @@ The steps in the preceding procedure are described in detail in the following se
 
 ## Create and start the CollaborationPlatform
 
-Create a server [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance with MTLS, a server certificate, and a trusted service GRUU.
+Create a server [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance with MTLS, a server certificate, and a trusted service GRUU.
 
 > [!NOTE]
 > The variables shown as parameters to the [ServerPlatformSettings()](https://msdn.microsoft.com/library/hh385152(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
@@ -87,7 +87,7 @@ private void PlatformStartupCompleted(IAsyncResult result)
 
 ## Establish an ApplicationEndpoint instance
 
-The application then establishes an [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
+The application then establishes an [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
 
 > [!NOTE]
 > The variables shown as parameters to the [ApplicationEndpointSettings()](https://msdn.microsoft.com/library/hh382372(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
@@ -170,7 +170,7 @@ conversation.ConferenceSession.BeginJoin(
 
 ## Create an AudioVideoCall instance
 
-The application now creates an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. It should set the [RemoveFromDefaultRouting](https://msdn.microsoft.com/library/hh349908\(v=office.16\)) property to true. This property can be accessed from the [AudioVideoMcuDialInOptions](https://msdn.microsoft.com/library/hh348625\(v=office.16\)) property on an [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/library/hh382857\(v=office.16\)) instance.
+The application now creates an [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. It should set the [RemoveFromDefaultRouting](https://msdn.microsoft.com/library/hh349908\(v=office.16\)) property to true. This property can be accessed from the [AudioVideoMcuDialInOptions](https://msdn.microsoft.com/library/hh348625\(v=office.16\)) property on an [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/library/hh382857\(v=office.16\)) instance.
 
 ```csharp
 AudioVideoCallEstablishOptions callOptions = new AudioVideoCallEstablishOptions();

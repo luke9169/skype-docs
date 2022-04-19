@@ -1,5 +1,5 @@
 ﻿---
-title: PacketLossRateMax element (QualityPropertiesType complexType) 
+title: PacketLossRateMax element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: PacketLossRateMax element
 ms:assetid: 02627ac9-06c8-be10-c5a6-f2089f963c76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170935(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# PacketLossRateMax element
+# PacketLossRateMax element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

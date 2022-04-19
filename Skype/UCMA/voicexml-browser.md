@@ -1,4 +1,5 @@
 ﻿---
+description: Learn about the VoiceXML browser class for UCMA 5.0.
 title: VoiceXML browser
 TOCTitle: VoiceXML browser
 ms:assetid: ae93b7b5-3bc4-40a6-bf01-ed80182003b5
@@ -12,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class in Microsoft Unified Communications Managed API 5.0 is derived from the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace. Browser has access to all the public members of the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace, as well as all the enumerated types, EventArgs classes, and interpretation result classes of the **Microsoft.Speech.VoiceXml.Common** namespace.
+The [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser) class in Microsoft Unified Communications Managed API 5.0 is derived from the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace. Browser has access to all the public members of the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace, as well as all the enumerated types, EventArgs classes, and interpretation result classes of the **Microsoft.Speech.VoiceXml.Common** namespace.
 
 A **Browser** connects to the call processing and audio resources in UCMA 5.0 through the **SetAudioVideoCall()** method. See [Connecting to audio resources in UCMA 5.0](connecting-to-audio-resources-in-ucma-5-0.md) for more information.
 

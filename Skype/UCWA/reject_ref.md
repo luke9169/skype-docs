@@ -1,3 +1,8 @@
+---
+title: reject
+description: reject denies the corresponding participant access the the onlineMeeting.
+---
+
 # reject
 
  _**Applies to:** Skype for Business 2015_

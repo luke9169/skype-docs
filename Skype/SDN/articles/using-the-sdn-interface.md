@@ -1,12 +1,12 @@
 ---
-title: Using the Skype for Business SDN Interface
+title: Using the Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
 description: Learn how to parse Skype for Business call and quality data
 ms.date: 03/30/2022
 ms.assetid: 542be3ea-3144-4e21-b320-c479cb0397bd
 ---
 
 
-# Using the Skype for Business SDN Interface
+# Using the Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 

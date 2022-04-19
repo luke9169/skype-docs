@@ -1,4 +1,7 @@
-
+---
+title: SessionState
+description: SessionState represents the state of a session.
+---
 # SessionState
 
 

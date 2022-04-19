@@ -1,3 +1,6 @@
+---
+title: Troubleshooting Azure AD Authentication Failures for Skype Web SDK
+---
 # Troubleshooting Azure AD Authentication Failures for Skype Web SDK
 
 _**Applies to:** Skype for Business 2015_

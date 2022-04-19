@@ -1,3 +1,8 @@
+---
+title: continueAudioVideo
+description: continueAudioVideo continues audio/video modality of a past conversation.
+---
+
 # continueAudioVideo
 
  _**Applies to:** Skype for Business 2015_

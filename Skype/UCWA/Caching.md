@@ -1,4 +1,6 @@
-
+---
+title: Caching
+---
 # Caching
 To improve efficiency, web applications should cache important or often-used resources.
 

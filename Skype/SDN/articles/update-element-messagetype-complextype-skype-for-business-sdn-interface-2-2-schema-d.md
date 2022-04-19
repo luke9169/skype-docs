@@ -1,6 +1,7 @@
 ﻿---
-title: Update element (MessageType complexType) 
+title: Update element (MessageType complexType) schema D
 TOCTitle: Update element
+description: Event that a media stream previously started has been updated. This event is raised when an update to core parameters of call have changed and the change is established.
 ms:assetid: 38b49ac6-609a-a47c-4f7c-e83fa7d363ab
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171018(v=office.16)
 ms:contentKeyID: 65855591
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Update element 
+# Update element (MessageType complexType) schema D
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -86,11 +78,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -121,13 +108,6 @@ Elements and attributes
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

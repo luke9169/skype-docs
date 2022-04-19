@@ -1,5 +1,5 @@
 ﻿---
-title: Overview of Skype for Business SDN Interface
+title: Overview of Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 TOCTitle: Overview of Skype for Business SDN Interface
 ms:assetid: 5cd64da2-e0bb-4558-9ccb-6e8fa01663fd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785191(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Overview of Skype for Business SDN Interface
+# Overview of Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

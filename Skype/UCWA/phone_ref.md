@@ -1,3 +1,8 @@
+---
+title: phone
+description: phone represents one of the user's phone numbers.
+---
+
 # phone
 
  _**Applies to:** Skype for Business 2015_

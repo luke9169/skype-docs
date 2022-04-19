@@ -1,3 +1,6 @@
+---
+title: Skype Web SDK - Release Notes
+---
 # Skype Web SDK - Release Notes 
 
 **Release Notes**

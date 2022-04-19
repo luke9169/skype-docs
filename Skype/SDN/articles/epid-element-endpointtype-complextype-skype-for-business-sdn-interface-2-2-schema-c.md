@@ -1,5 +1,5 @@
 ﻿---
-title: EPId element (EndPointType complexType) 
+title: EPId element (EndPointType complexType) (Schema C)
 TOCTitle: EPId element (EndPointType complexType)
 ms:assetid: 31690ba2-3193-6a47-df78-8c976199893b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404759(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EPId element 
+# EPId element (EndPointType complexType)(Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

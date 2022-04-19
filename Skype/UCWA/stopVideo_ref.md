@@ -1,3 +1,8 @@
+---
+title: stopVideo
+description: stopVideo represents an operation to stop established AudioVideo.
+---
+
 # stopVideo
 
  _**Applies to:** Skype for Business 2015_

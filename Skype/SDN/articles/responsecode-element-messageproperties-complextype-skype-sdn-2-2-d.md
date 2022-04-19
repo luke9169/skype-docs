@@ -1,5 +1,5 @@
 ﻿---
-title: ResponseCode element (MessageProperties complexType) 
+title: ResponseCode element (MessageProperties complexType) (Schema D)
 TOCTitle: ResponseCode element (MessageProperties complexType)
 ms:assetid: cef77f6d-f6c7-f1d3-8e6f-1859e1203576
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170987(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponseCode element 
+# ResponseCode element (MessageProperties complexType) (Schema D)
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -91,11 +91,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

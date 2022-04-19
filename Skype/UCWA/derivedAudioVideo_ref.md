@@ -1,3 +1,8 @@
+---
+title: derivedAudioVideo
+description: The derived audioVideo resource.
+---
+
 # derivedAudioVideo
 
  _**Applies to:** Skype for Business 2015_

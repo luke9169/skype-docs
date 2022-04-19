@@ -1,3 +1,8 @@
+---
+title: delegatesGroup
+description: delegatesGroup represents a group of users designated as delegates.
+---
+
 # delegatesGroup
 
  _**Applies to:** Skype for Business 2015_

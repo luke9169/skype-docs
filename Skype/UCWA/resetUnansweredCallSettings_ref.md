@@ -1,3 +1,8 @@
+---
+title: resetUnansweredCallSettings
+description: Resets unanswered call settings to the default values.
+---
+
 # resetUnansweredCallSettings
 
  _**Applies to:** Skype for Business 2015_

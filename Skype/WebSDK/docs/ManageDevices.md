@@ -1,4 +1,7 @@
-
+---
+title: Manage devices
+description: Before accessing the device lists in devicesManager, the client must call that respective list's subscribe() function. After this function is called changes to the collection are exposed to the client, and the client may enumerate the devices in that list.
+---
 # Manage devices
 
 

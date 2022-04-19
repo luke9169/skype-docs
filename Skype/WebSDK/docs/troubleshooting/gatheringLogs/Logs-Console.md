@@ -1,3 +1,8 @@
+---
+title: Gathering Console Logs from the Skype Web SDK or Conversation Control
+description: Console logs are invaluable for troubleshooting any issue related to the Skype Web SDK.
+---
+
 # Gathering Console Logs from the Skype Web SDK or Conversation Control
 
 **In this article:**

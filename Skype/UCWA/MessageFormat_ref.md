@@ -1,3 +1,7 @@
+---
+title: MessageFormat
+description: MessageFormat represents the possible message formats allowed for instance messages.
+---
 
 # MessageFormat
 

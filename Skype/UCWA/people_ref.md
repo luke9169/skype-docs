@@ -1,3 +1,8 @@
+---
+title: people
+description: A hub for the people with whom the logged-on user can communicate, using Skype for Business.
+---
+
 # people
 
  _**Applies to:** Skype for Business 2015_

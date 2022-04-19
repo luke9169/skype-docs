@@ -1,4 +1,6 @@
-
+---
+title: Event channel details
+---
 # Event channel details
 Learn how to request that the event channel be started, and to process events when they arrive on the event channel.
 

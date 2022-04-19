@@ -1,3 +1,6 @@
+---
+title: AAD Auth Failures - Incorrectly configured reply URLs for application
+---
 # AAD Auth Failures - Incorrectly configured reply URLs for application
 
 _"The reply address 'https://...' does not match the reply addresses configured for the application <...>"_

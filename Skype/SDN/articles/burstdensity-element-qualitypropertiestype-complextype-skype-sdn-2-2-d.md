@@ -1,5 +1,5 @@
 ﻿---
-title: BurstDensity element (QualityPropertiesType complexType) 
+title: BurstDensity element (QualityPropertiesType complexType) Schema D
 TOCTitle: BurstDensity element
 ms:assetid: 7e9ced1d-5232-3d1a-e36b-08af16380c27
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149434(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BurstDensity element 
+# BurstDensity element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -48,7 +48,7 @@ The following custom exception classes are implemented in UCMA 5.0:
 
 - **CallOperationFailureException**
 
-  Thrown when failure occurs on a class derived from the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
+  Thrown when failure occurs on a class derived from the [Call](/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
 
   ```powershell  
         try
@@ -148,5 +148,5 @@ The following object model lists the exceptions that are specific to UCMA 5.0.
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
 - [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)

@@ -1,3 +1,8 @@
+---
+title: holdPhoneAudio
+description: holdPhoneAudio places a phone call on hold.
+---
+
 # holdPhoneAudio
 
  _**Applies to:** Skype for Business 2015_

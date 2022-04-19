@@ -1,3 +1,8 @@
+---
+title: Anonymous Meeting Join
+description: Anonymous meeting join is a powerful feature of the Skype Developer Platform that enables you to join guest users into Skype Meetings to deliver "remote advisor" and other Business-to-Consumer solutions.
+---
+
 # Anonymous Meeting Join
 
 Anonymous meeting join is a powerful feature of the Skype Developer Platform that enables you to join guest users into Skype Meetings to deliver "remote advisor" and other Business-to-Consumer solutions.  For Skype for Business Online, anonymous meeting join is supported through the **Trusted Application API**.  The guest join meeting flow for anonymous meetings can use the **Trusted Application API** plus the client-side features of either the Skype Web SDK, App SDK, or UCWA.

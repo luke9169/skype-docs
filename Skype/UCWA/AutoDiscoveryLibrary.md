@@ -1,4 +1,7 @@
-
+---
+title: AutoDiscovery library
+description: AutoDiscovery.js is a JavaScript library that helps an application find the Microsoft Unified Communications Web API 2.0 home server.
+---
 # AutoDiscovery library
 AutoDiscovery.js is a JavaScript library that helps an application find the Microsoft Unified Communications Web API 2.0 home server.
 
@@ -27,21 +30,17 @@ AutoDiscovery = microsoft.rtc.ucwa.samples.AutoDiscovery(Transport);
 
 The variables declared in the preceding example are used in subsequent examples in this topic.
 
-
 ## startDiscovery(domain, container, callback)
 
 The **startDiscovery** function is the starting point for auto-discovery.
-
-
 
 |**Parameter**|**Description**|
 |:-----|:-----|
 |domain|FQDN to use during auto-discovery.|
 |container|DOM element that will contain the injected iframe(s).|
 |callback|Method to execute when auto-discovery completes.|
+
  **Syntax**
-
-
 
 
 ```

@@ -1,3 +1,7 @@
+---
+title: location reference
+description: The location resource in Skype for Business 2015 represents the user's location.
+---
 # location
 
  _**Applies to:** Skype for Business 2015_
@@ -24,15 +28,11 @@ location gets updated whenever the user changes his or her location.
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |location|A string describing the user's location.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -42,9 +42,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
@@ -54,12 +53,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |location|Medium|me|Indicates that the application is no longer in lurker mode. The application will now receive the user's location updates.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -90,12 +89,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |location|Medium|me|Indicates the user's location has changed.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -126,12 +125,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |location|Medium|me|Indicates that the application will no longer receive the user's location updates.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

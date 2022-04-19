@@ -1,3 +1,7 @@
+---
+title: failedDeliveryParticipant reference
+description: The failedDeliveryParticipant resource represents a participant that failed to receive an instant message sent by the user.
+---
 # failedDeliveryParticipant
 
  _**Applies to:** Skype for Business 2015_
@@ -24,13 +28,9 @@ An application can choose to present this information to the user for a reliable
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -40,9 +40,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|

@@ -1,3 +1,7 @@
+---
+title: Meetings
+description: This section describes the different meetings options.
+---
 
 # Meetings
 

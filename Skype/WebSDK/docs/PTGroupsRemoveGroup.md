@@ -1,4 +1,7 @@
-
+---
+title: Remove Group
+description: This article discusses how to remove a group.
+---
 # Remove Group
 
 

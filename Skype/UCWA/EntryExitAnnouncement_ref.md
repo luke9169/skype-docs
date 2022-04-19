@@ -1,5 +1,7 @@
-
-# EntryExitAnnouncement
+---
+title: EntryExitAnnouncement reference
+---
+# EntryExitAnnouncement reference
 
 
 _** Applies to: **Skype for Business 2015_

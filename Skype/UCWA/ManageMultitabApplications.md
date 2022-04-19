@@ -1,3 +1,8 @@
+---
+title: Managing Multitab Applications
+description: This is about Managing Multitab Applications.
+---
+
 
 # Managing Multitab Applications
 {insert summary}

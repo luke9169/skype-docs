@@ -1,3 +1,8 @@
+---
+title: publishCallQualityFeedback
+description: Represents publishCallQualityFeedback operation.
+---
+
 # publishCallQualityFeedback
 
  _**Applies to:** Skype for Business 2015_

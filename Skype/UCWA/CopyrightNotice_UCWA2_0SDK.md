@@ -1,4 +1,7 @@
-
+---
+title: Copyright notice (UCWA 1.0 SDK)
+description: This is a copyright notice.
+---
 # Copyright notice (UCWA 1.0 SDK)
 
 

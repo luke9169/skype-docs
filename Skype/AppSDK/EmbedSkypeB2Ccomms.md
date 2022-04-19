@@ -1,3 +1,6 @@
+---
+title: Embed Skype business-to-consumer communications in your mobile app
+---
 # Embed Skype business-to-consumer communications in your mobile app
 
 ![Guest meeting join scenario diagram](images/Fig2_anonymous_meeting_join.png "Figure 1. Guest meeting join")

@@ -1,3 +1,8 @@
+---
+title: me
+description: me represents the user.
+---
+
 # me
 
  _**Applies to:** Skype for Business 2015_

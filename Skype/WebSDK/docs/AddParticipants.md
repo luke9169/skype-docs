@@ -1,3 +1,7 @@
+---
+title: Add participants to a conversation
+description: Additional Persons can be added to a conversation to escalate that conversation to an online meeting.
+---
 
 # Add participants to a conversation
 

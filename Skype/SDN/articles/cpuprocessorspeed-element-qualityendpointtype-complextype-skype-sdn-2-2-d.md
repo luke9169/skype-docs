@@ -1,5 +1,5 @@
 ﻿---
-title: CPUProcessorSpeed element (QualityEndPointType complexType) 
+title: CPUProcessorSpeed element (QualityEndPointType complexType) (Schema D)
 TOCTitle: CPUProcessorSpeed element
 ms:assetid: 69a5d16b-8de1-5c04-bf63-5a990c14bac9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149461(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CPUProcessorSpeed element 
+# CPUProcessorSpeed element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

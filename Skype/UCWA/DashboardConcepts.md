@@ -1,3 +1,7 @@
+---
+title: Dashboard concepts
+description: Several UCWA 2.0 resources act as "dashboards" that provide important information in a single place.
+---
 
 # Dashboard concepts
 Several UCWA 2.0 resources act as "dashboards" that provide important information in a single place. 

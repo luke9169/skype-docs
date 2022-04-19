@@ -1,3 +1,7 @@
+---
+title: Skype Web SDK core capabilities
+description: The following table lists tasks that are the building blocks of creating web and mobile applications using the Skype Web SDK.
+---
 
 # Skype Web SDK core capabilities
 

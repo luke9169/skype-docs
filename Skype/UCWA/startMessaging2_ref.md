@@ -1,3 +1,8 @@
+---
+title: startMessaging2
+description: startMessaging2 starts a messagingInvitation that adds the messaging modality to a new conversation.
+---
+
 # startMessaging2
 
  _**Applies to:** Skype for Business 2015_

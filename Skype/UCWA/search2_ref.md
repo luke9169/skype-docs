@@ -1,3 +1,8 @@
+---
+title: search2
+description: search2 provides a way to search for contacts.
+---
+
 # search2
 
  _**Applies to:** Skype for Business 2015_

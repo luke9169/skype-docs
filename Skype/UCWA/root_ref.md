@@ -1,3 +1,7 @@
+---
+title: root
+description: root represents the entry point to the API.
+---
 # root
 
  _**Applies to:** Skype for Business 2015_

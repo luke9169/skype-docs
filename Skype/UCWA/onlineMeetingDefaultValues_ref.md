@@ -1,3 +1,8 @@
+---
+title: onlineMeetingDefaultValues
+description: Represents the values of myOnlineMeeting properties if not specified at scheduling time.
+---
+
 # onlineMeetingDefaultValues
 
  _**Applies to:** Skype for Business 2015_

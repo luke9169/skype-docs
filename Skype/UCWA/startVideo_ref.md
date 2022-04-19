@@ -1,3 +1,8 @@
+---
+title: startVideo
+description: startVideo represents an operation to start AudioVideo. This token indicates 
+the user has ability to start only video.
+---
 # startVideo
 
  _**Applies to:** Skype for Business 2015_

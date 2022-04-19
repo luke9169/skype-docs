@@ -1,3 +1,6 @@
+---
+title: Gathering Media Logs from the Skype Web SDK or Conversation Control
+---
 # Gathering Media Logs from the Skype Web SDK or Conversation Control
 
 **In this article:**

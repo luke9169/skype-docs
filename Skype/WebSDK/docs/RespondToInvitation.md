@@ -1,4 +1,6 @@
-
+---
+title: Respond to a conversation invitation
+---
 # Respond to a conversation invitation
 
 

@@ -1,3 +1,8 @@
+---
+title: removeFromContactList
+description: Removes a distributionGroup from contact list.
+---
+
 # removeFromContactList
 
  _**Applies to:** Skype for Business 2015_

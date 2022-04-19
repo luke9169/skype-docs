@@ -1,3 +1,8 @@
+---
+title: myAssignedOnlineMeeting
+description: Represents a user's onlineMeeting that is commonly used for scheduled meetings with other contacts.
+---
+
 # myAssignedOnlineMeeting
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents a user's [onlineMeeting](onlineMeeting_ref.md) that is commonly used 
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +31,7 @@ This resource might not be available based on admin policies.When available, the
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |accessLevel|The access level that controls admission to the online meeting.|
 |attendees|The list of online meeting attendees.|
@@ -52,7 +57,7 @@ This resource might not be available based on admin policies.When available, the
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |onlineMeetingExtensions|Represents the set of [onlineMeetingExtension](onlineMeetingExtension_ref.md)s for the associated [onlineMeeting](onlineMeeting_ref.md).|
@@ -60,10 +65,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -100,7 +104,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -277,7 +281,7 @@ None
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
@@ -347,7 +351,7 @@ Updates a scheduled meeting on the user's calendar.
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |accessLevel|The policy that indicates which users are permitted to join the onlinemeeting without being placed in the online meeting lobby.Set this property to control access to the online meeting.An application should query the organizer's eligible access levels before setting this property.Nullable (AccessLevel)None, SameEnterprise, Locked, Invited, or Everyone|No|
 |attendees|A list of the participants who have the attendee role.Array of String|No|
@@ -364,7 +368,7 @@ Updates a scheduled meeting on the user's calendar.
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[myOnlineMeeting](OnlineMeeting_ref.md)|Represents a scheduled meeting on the user's calendar.|
 
@@ -374,7 +378,7 @@ Updates a scheduled meeting on the user's calendar.
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|

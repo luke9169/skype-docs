@@ -1,5 +1,5 @@
 ﻿---
-title: RoundTripMax element (QualityPropertiesType complexType) 
+title: RoundTripMax element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: RoundTripMax element
 ms:assetid: ebb4ec4f-6a66-c274-b318-f5ea820b8746
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404844(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RoundTripMax element 
+# RoundTripMax element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

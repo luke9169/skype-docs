@@ -1,3 +1,6 @@
+---
+title: Skype Web SDK Production Use Capabilities
+---
 # Skype Web SDK Production Use Capabilities
 
 

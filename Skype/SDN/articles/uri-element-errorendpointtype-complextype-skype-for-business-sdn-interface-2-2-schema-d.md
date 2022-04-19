@@ -1,5 +1,5 @@
 ﻿---
-title: URI element (ErrorEndPointType complexType) 
+title: URI element (ErrorEndPointType complexType) (Schema D)
 TOCTitle: URI element (ErrorEndPointType complexType)
 ms:assetid: ed71518a-4d26-48d7-67eb-fb8905f9fd8d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171022(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

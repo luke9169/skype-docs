@@ -1,5 +1,5 @@
 ﻿---
-title: Contact element (ByeEndPointType complexType) 
+title: Contact element (ByeEndPointType complexType) (Schema D)
 TOCTitle: Contact element (ByeEndPointType complexType)
 ms:assetid: 9a724a72-cf75-d6a3-0ebf-65ef1eaead83
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149451(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

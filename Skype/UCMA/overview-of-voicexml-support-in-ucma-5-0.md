@@ -12,9 +12,9 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-VoiceXML support in the Microsoft Unified Communications Managed API 5.0 consists of a VoiceXML runtime and the .NET namespace [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice).
+VoiceXML support in the Microsoft Unified Communications Managed API 5.0 consists of a VoiceXML runtime and the .NET namespace [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice).
 
-The namespace consists of the [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class, which provides access to the VoiceXML runtime and to the telephony and audio functionality in UCMA 5.0. This functionality facilitates automated communication with callers.
+The namespace consists of the [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class, which provides access to the VoiceXML runtime and to the telephony and audio functionality in UCMA 5.0. This functionality facilitates automated communication with callers.
 
 > [!NOTE]
 > [Browser](https://msdn.microsoft.com/library/gg452712(v=office.16)) derives from the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace.
@@ -39,7 +39,7 @@ While processing the elements in VoiceXML documents, the **Browser** generates e
 
 ## Creating VoiceXML applications
 
-The Unified Communications Managed API 5.0 SDK documentation does not instruct developers on creating VoiceXML applications. See the [VoiceXML Tutorial](https://docs.microsoft.com/previous-versions/office/developer/speech-technologies/ff769501(v=msdn.10)) for instructions and examples that will introduce you to VoiceXML authoring.
+The Unified Communications Managed API 5.0 SDK documentation does not instruct developers on creating VoiceXML applications. See the [VoiceXML Tutorial](/previous-versions/office/developer/speech-technologies/ff769501(v=msdn.10)) for instructions and examples that will introduce you to VoiceXML authoring.
 
 Additional resources include the following specifications of the World Wide Web Consortium (W3C):
 
@@ -47,4 +47,4 @@ Additional resources include the following specifications of the World Wide Web 
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)

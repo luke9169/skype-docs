@@ -1,3 +1,8 @@
+---
+title: messagingInvitation
+description: A messagingInvitation represents an invitation to a conversation for the messaging modality.
+---
+
 # messagingInvitation
 
  _**Applies to:** Skype for Business 2015_
@@ -24,8 +29,6 @@ This resource can be incoming or outgoing.If outgoing, the messagingInvitation c
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |customContent|Custom Content.|
@@ -39,8 +42,6 @@ This resource can be incoming or outgoing.If outgoing, the messagingInvitation c
 |to|The target of this invitation.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -62,9 +63,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -73,8 +73,6 @@ The user must have at least one of these scopes for operations on the resource t
 <a name="sectionSection2"></a>
 
 ### Started
-
-
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|

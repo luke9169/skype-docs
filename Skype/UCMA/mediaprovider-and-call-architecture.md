@@ -12,7 +12,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) abstract class is intended to provide an abstraction of the link between the Signaling layer and Session Description Protocol (SDP) negotiation. A **MediaProvider** subclass facilitates offer/answer negotiation in a signaling session when an application initiates an outgoing call or accepts an incoming call. The [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) abstract class is intended to provide an abstraction of a call that uses a particular media type. A **Call** subclass instance invokes methods on the associated **MediaProvider** subclass instance to get an offer or answer, or to set an answer on the associated **MediaProvider** subclass instance.
+The [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) abstract class is intended to provide an abstraction of the link between the Signaling layer and Session Description Protocol (SDP) negotiation. A **MediaProvider** subclass facilitates offer/answer negotiation in a signaling session when an application initiates an outgoing call or accepts an incoming call. The [Call](/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) abstract class is intended to provide an abstraction of a call that uses a particular media type. A **Call** subclass instance invokes methods on the associated **MediaProvider** subclass instance to get an offer or answer, or to set an answer on the associated **MediaProvider** subclass instance.
 
 If your application is intended to work with media types other than the standard media types built into UCMA 5.0, message, audio, and image, you will need to create non-abstract classes that inherit from the **MediaProvider** and **Call** classes. This topic describes the how the **MediaProvider** and **Call** subclass instances must interact so that your application operates successfully.
 
@@ -60,7 +60,7 @@ The following table lists the **MediaProvider** properties that define the behav
 
 ### Methods that handle SDP offer/answer negotiation
 
-A key role of a class derived from the **MediaProvider** class is to participate in SDP offer/answer negotiation for a **Call**. A typical **MediaProvider** subclass, such as the **AudioVideoProvider** class, also manages the [MediaFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) instance (media session) associated with the **Call**. This section describes the most important **MediaProvider** methods related to offer/answer negotiation.
+A key role of a class derived from the **MediaProvider** class is to participate in SDP offer/answer negotiation for a **Call**. A typical **MediaProvider** subclass, such as the **AudioVideoProvider** class, also manages the [MediaFlow](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) instance (media session) associated with the **Call**. This section describes the most important **MediaProvider** methods related to offer/answer negotiation.
 
 > [!NOTE]
 > A developer who is implementing a **MediaProvider** subclass should be familiar with the standard .NET Framework asynchronous pattern that uses **Begin**_Xxx_ and **End**_Xxx_ for asynchronous operations. The **MediaProvider** subclass requires implementations of the abstract **BeginGetOffer** and **BeginGetAnswer** methods.

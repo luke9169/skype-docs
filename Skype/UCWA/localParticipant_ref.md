@@ -1,3 +1,7 @@
+---
+title: localParticipant
+description: localParticipant represents the user as a local participant in a specific conversation.
+---
 # localParticipant
 
  _**Applies to:** Skype for Business 2015_
@@ -11,7 +15,6 @@ Represents the user as a local [participant](participant_ref.md) in a specific [
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -23,8 +26,6 @@ For more on web links, see [Web links](WebLinks.md).
 participant is the transient representation of the user that captures her attributes such as role or capabilities (such as promoting to leader or admitting from lobby).A localParticipant's lifetime is controlled by the server and starts when the user joins a [conversation](conversation_ref.md).It is removed when the participant leaves the [conversation](conversation_ref.md).
 
 ### Properties
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -40,8 +41,6 @@ participant is the transient representation of the user that captures her attrib
 |workPhoneNumber|The participant's Phone URI.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -63,9 +62,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -76,12 +74,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |localParticipant|High|conversation|Indicates that the user has joined a [conversation](conversation_ref.md).</p><p>The application should use this as a hint to update its conversation cache.This event is raised when the user is first added.Other added events for the same participant indicate that the user has been admitted to the conference, promoted, demoted, or is typing a message.</p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -112,12 +110,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |localParticipant|High|conversation|Indicates that the user has been updated.</p><p>This event is raised when the user's capabilities as a participant have changed. Note that this is the only updated event for localParticipant.For example, if the user is was demoted from leader to attendee, the [enableAudienceMuteLock](enableAudienceMuteLock_ref.md) capability is no longer present.</p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -148,12 +146,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |localParticipant|High|conversation|Indicates that the user has left a conversation.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

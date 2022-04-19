@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 OperationResource library
+---
 # OperationResource library
 OperationResource.js is a JavaScript library that helps start operations whose outcomes appear in the event channel.
 
@@ -46,13 +48,12 @@ The variables declared in the preceding examples are used in subsequent examples
 
 Begins processing of an operation.
 
-
-
-|**Parameter**|**Description**|
+|Parameter|Description|
 |:-----|:-----|
 |data|Request object to process.|
 |handlers|The set of handlers, one for each event type.|
- **Returns**: A number representing the operation ID.
+
+**Returns**: A number representing the operation ID.
 
  **Syntax**
 
@@ -142,12 +143,11 @@ The _handlers_parameter should an object in the form of:
 
 Stops a UCWA operation resource and removes handlers for changes from the event channel.
 
-
-
-|**Parameter**|**Description**|
+|Parameter|Description|
 |:-----|:-----|
 |id|The identifier of the UCWA operation.|
- **Syntax**
+
+**Syntax**
 
 
 

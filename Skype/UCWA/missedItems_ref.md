@@ -1,3 +1,8 @@
+---
+title: missedItems
+description: A collection of unread voicemails and conversations.
+---
+
 # missedItems
 
  _**Applies to:** Skype for Business 2015_

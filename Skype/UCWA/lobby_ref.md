@@ -1,3 +1,8 @@
+---
+title: lobby
+description: lobby represents a view of the participants who have not yet been admitted to an onlineMeeting.
+---
+
 # lobby
 
  _**Applies to:** Skype for Business 2015_

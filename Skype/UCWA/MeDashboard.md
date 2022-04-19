@@ -1,3 +1,7 @@
+---
+title: Me dashboard 
+description: The me resource acts as a dashboard that represents the user of a Microsoft Unified Communications Web API 2.0 application.
+---
 
 # Me dashboard
 The **me** resource acts as a dashboard that represents the user of a Microsoft Unified Communications Web API 2.0 application.

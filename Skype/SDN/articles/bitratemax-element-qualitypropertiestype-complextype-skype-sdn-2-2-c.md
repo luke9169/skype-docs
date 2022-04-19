@@ -1,5 +1,5 @@
 ﻿---
-title: BitRateMax element (QualityPropertiesType complexType) 
+title: BitRateMax element (QualityPropertiesType complexType) Schema C
 TOCTitle: BitRateMax element
 ms:assetid: 5295682e-f606-eacb-b3db-bab7bfb176d1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404708(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BitRateMax element 
+# BitRateMax element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

@@ -1,3 +1,8 @@
+---
+title: onlineMeetingEligibleValues
+description: Represents the eligible values that the application can choose from when scheduling a myOnlineMeeting.
+---
+
 # onlineMeetingEligibleValues
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the eligible values that the application can choose from when schedul
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -21,7 +26,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |accessLevels|The allowed values for access level, such as SameEnterprise or Everyone.In a Locked online meeting, only the organizer and pre-set leaders are allowed to join the online meeting.All other participants who attempt to join the online meeting are placed in the lobby.Leaders can use this capability to prepare their online meeting while their attendees wait in the lobby. Note that scheduling locked online meetings is supported by Microsoft Lync Server 2010 or later.An administrator can also prevent specific users from using the AccessLevel.Everyone access level when thoseusers schedule online meetings.|
 |automaticLeaderAssignments|The allowed values for automatic leader assignment, such as Disabled or SameEnterprise.Automatic promotion specifies which users are automatically promoted to the leaderrole as they join the online meeting.|
@@ -35,7 +40,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |myAssignedOnlineMeeting|Represents a user's [onlineMeeting](onlineMeeting_ref.md) that is commonly used for scheduled meetings with other [contact](contact_ref.md)s.|
@@ -46,7 +51,8 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -86,7 +92,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|

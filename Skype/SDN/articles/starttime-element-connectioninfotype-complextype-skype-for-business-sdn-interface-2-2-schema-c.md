@@ -1,5 +1,5 @@
 ﻿---
-title: StartTime element (ConnectionInfoType complexType) 
+title: StartTime element (ConnectionInfoType complexType) (Schema C)
 TOCTitle: StartTime element
 ms:assetid: 52863aeb-ca6e-2940-46ec-652e8064a9e8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404856(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# StartTime element 
+# StartTime element (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

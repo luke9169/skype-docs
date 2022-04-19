@@ -1,4 +1,7 @@
-
+---
+title: Developing UCWA applications for Skype for Business Server
+description: Learn how to develop web applications for UCWA 2.0 Server (on-premises server).
+---
 # Developing UCWA applications for Skype for Business Server
 Learn how to develop web applications for UCWA 2.0 Server (on-premises server).
 

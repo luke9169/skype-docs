@@ -1,3 +1,8 @@
+---
+title: Video license acceptance code
+description: Video license acceptance code
+---
+
 # Video license acceptance code
 
 **Swift**

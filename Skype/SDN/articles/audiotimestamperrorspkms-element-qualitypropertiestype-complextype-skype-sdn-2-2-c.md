@@ -1,5 +1,5 @@
 ﻿---
-title: AudioTimestampErrorSpkMs element (QualityPropertiesType complexType) 
+title: AudioTimestampErrorSpkMs element (QualityPropertiesType complexType) Schema C
 TOCTitle: AudioTimestampErrorSpkMs element
 ms:assetid: 121b8cab-78f9-65c3-10be-347756db6b9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404700(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# AudioTimestampErrorSpkMs element 
+# AudioTimestampErrorSpkMs element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

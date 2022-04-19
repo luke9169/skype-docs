@@ -1,3 +1,8 @@
+---
+title: to
+description: to represents the originally intended target of the invitation as a contact.
+---
+
 # to
 
  _**Applies to:** Skype for Business 2015_

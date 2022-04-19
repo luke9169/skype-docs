@@ -1,3 +1,8 @@
+---
+title: messageTranscript
+description: Represents a message transcript within a conversationLog.
+---
+
 # messageTranscript
 
  _**Applies to:** Skype for Business 2015_

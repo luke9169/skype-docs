@@ -1,4 +1,6 @@
-
+---
+title: Developing applications with Skype Web SDK
+---
 # Developing applications with Skype Web SDK
 
 

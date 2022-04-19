@@ -1,3 +1,8 @@
+---
+title: reportMyActivity
+description: reportMyActivity indicates that the user is actively using this application.
+---
+
 # reportMyActivity
 
  _**Applies to:** Skype for Business 2015_

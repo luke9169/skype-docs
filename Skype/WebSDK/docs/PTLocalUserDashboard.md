@@ -1,3 +1,7 @@
+---
+title: Load Dashboard
+description: This article talks about Load Dashboard, local user, and using the mePerson object.
+---
 
 # Load Dashboard
 

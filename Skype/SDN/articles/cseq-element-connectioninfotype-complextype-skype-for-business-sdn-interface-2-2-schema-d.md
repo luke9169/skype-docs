@@ -1,5 +1,5 @@
 ﻿---
-title: CSEQ element (ConnectionInfoType complexType) 
+title: CSEQ element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: CSEQ element
 ms:assetid: 1f77eda5-0bee-f83b-9576-a6ea8187bafe
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149464(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CSEQ element 
+# CSEQ element (ConnectionInfoType complexType) (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

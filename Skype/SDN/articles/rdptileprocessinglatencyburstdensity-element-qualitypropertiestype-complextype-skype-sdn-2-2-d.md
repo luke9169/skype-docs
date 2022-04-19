@@ -1,6 +1,7 @@
 ﻿---
-title: RDPTileProcessingLatencyBurstDensity element (QualityPropertiesType complexType) 
+title: RDPTileProcessingLatencyBurstDensity element (QualityPropertiesType complexType), schema D
 TOCTitle: RDPTileProcessingLatencyBurstDensity element
+description: More information about the RDPTileProcessingLatencyBurstDensity element, schema D.
 ms:assetid: f9b089bb-0197-e654-3292-6fc2e83fcbbf
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170956(v=office.16)
 ms:contentKeyID: 65855530
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RDPTileProcessingLatencyBurstDensity element 
+# RDPTileProcessingLatencyBurstDensity element, schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

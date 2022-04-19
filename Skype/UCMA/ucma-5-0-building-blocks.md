@@ -22,9 +22,9 @@ Each of the layers shown in the illustration is described in [UCMA 5.0 details](
 
 ![Major components of UCMA 4.0](images/Dn465945.UCMA-Blocks(Office.16).png "Major components of UCMA 4.0")
 
-In UCMA 5.0, the entry point class is [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api). An application can create multiple CollaborationPlatform instances, and each platform instance can host multiple endpoints.
+In UCMA 5.0, the entry point class is [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api). An application can create multiple CollaborationPlatform instances, and each platform instance can host multiple endpoints.
 
-An endpoint (represented as a [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) or [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance) acts as a gateway to communication and collaboration functionality in , providing access through its methods and properties to the classes that implement these functionalities.
+An endpoint (represented as a [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) or [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance) acts as a gateway to communication and collaboration functionality in , providing access through its methods and properties to the classes that implement these functionalities.
 
 An endpoint can use this functionality to:
 
@@ -45,7 +45,7 @@ An endpoint can use this functionality to:
 
 The following illustration shows the relationships among the principal objects of the architecture as well as the personas (see [Personas](personas.md)) involved in each type of object. The numbers shown between two objects indicate the kind of pairing between the two objects that can occur. For example, one local endpoint can be associated with zero or more **Conversation** objects, but can be associated with only one Presence Subscription object.
 
-Contacts and Groups are present only on [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) instances.
+Contacts and Groups are present only on [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) instances.
 
 ![Principal objects of the UCMA architecture](images/Dn465945.UcmaArch01(Office.16).jpg "Principal objects of the UCMA architecture")
 
@@ -108,5 +108,5 @@ This section includes the following topics:
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)

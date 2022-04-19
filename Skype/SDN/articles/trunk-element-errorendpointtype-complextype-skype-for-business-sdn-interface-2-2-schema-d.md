@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Trunk element 
+# Trunk element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

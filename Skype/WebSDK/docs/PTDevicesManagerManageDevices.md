@@ -1,4 +1,6 @@
-
+---
+title: Skype for Business 2015 Manage devices
+---
 # Manage devices
 
 

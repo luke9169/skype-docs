@@ -1,3 +1,6 @@
+---
+title: AAD Auth Failures - Administrator has not provided consent to use SfB Web APIs
+---
 # AAD Auth Failures - Administrator has not provided consent to use SfB Web APIs
 
 _"Calling principal cannot consent due to lack of permissions."_

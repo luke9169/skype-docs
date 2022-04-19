@@ -1,4 +1,7 @@
-
+---
+title: Skype URI tutorial Windows 8 apps
+description: Learn how to incorporate Skype communication functionality into your Windows 8 apps.
+---
 # Skype URI tutorial: Windows 8 apps
 
 Learn how to incorporate Skype communication functionality into your Windows 8 apps.

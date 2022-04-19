@@ -1,5 +1,5 @@
 ﻿---
-title: InviteType complexType 
+title: InviteType complexType (Schema D)
 TOCTitle: InviteType complexType
 ms:assetid: 170a5ffe-55b1-a31a-1f0f-5111df719bc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171067(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# InviteType complexType 
+# InviteType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

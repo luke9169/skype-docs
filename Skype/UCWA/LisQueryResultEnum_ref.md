@@ -1,3 +1,7 @@
+---
+title: LisQueryResultEnum
+description: LisQueryResultEnum is an enumeration summarizing the LIS query result.
+---
 
 # LisQueryResultEnum
 

@@ -1,4 +1,7 @@
-
+---
+title: Developing UCWA applications for Skype for Business Online
+description: Learn how to develop UCWA 2.0 online web applications.
+---
 # Developing UCWA applications for Skype for Business Online
  Learn how to develop UCWA 2.0 online web applications.
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Debugging the SDN Interface Dialog Listener
+title: Debugging and Troubleshooting the SDN Interface Dialog Listener
 TOCTitle: Debugging the SDN Interface Dialog Listener
 ms:assetid: 0dade195-3eee-4b8d-8510-33bd78927442
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785218(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Debugging the SDN Interface Dialog Listener
+# Debugging and Troubleshooting the SDN Interface Dialog Listener
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_

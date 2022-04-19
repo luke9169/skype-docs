@@ -1,5 +1,5 @@
 ﻿---
-title: Unattended installation of SDN Manager and Dialog Listener
+title: Unattended installation of SDN Manager and Dialog Listener (Lync Server 2010 | Lync Server 2013 | Skype for Business 2015)
 TOCTitle: Unattended installation of SDN Manager and Dialog Listener
 ms:assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785205(v=office.16)
@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Unattended installation of SDN Manager and Dialog Listener
+# Unattended installation of SDN Manager and Dialog Listener (Lync Server 2010 | Lync Server 2013 | Skype for Business 2015)
 
 
 _**Applies to:** Lync Server 2010 | Lync Server 2013 | Skype for Business 2015_
@@ -43,8 +43,8 @@ Follow the guidelines for an unattended install:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -67,8 +67,8 @@ Follow the guidelines for an unattended install:
 <div class="tableSection">
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -136,8 +136,8 @@ Follow the guidelines for an unattended install:
 <div class="tableSection">
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -199,11 +199,11 @@ Figure 1. Skype for Business SDN Manager Setup
 
 **Database install**
 
-    msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\LogDir TOPOLOGY=2 DATABASE_SERVER=mysqlserver DEBUGLOGGING=All SETUPDB=1 SQL_ADMIN_USER=sa SQL_ADMIN_PASSWORD=mypwd SQLUSER=simpleuser SQLPASSWORD=simplepassword DOMAIN=contoso COMPUTERNAME=thiscomputername USE_SQL_AUTH=1 DATABASE_NAME=sdndb
+``` msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\LogDir TOPOLOGY=2 DATABASE_SERVER=mysqlserver DEBUGLOGGING=All SETUPDB=1 SQL_ADMIN_USER=sa SQL_ADMIN_PASSWORD=mypwd SQLUSER=simpleuser SQLPASSWORD=simplepassword DOMAIN=contoso COMPUTERNAME=thiscomputername USE_SQL_AUTH=1 DATABASE_NAME=sdndb ```
 
 **REDIS install**
 
-    msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\LogDir TOPOLOGY=3 REDIS_CONNECTSTRING=redis.contoso.com,ssl=true REDIS_PASSWORD=myredispwd 
+``` msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\LogDir TOPOLOGY=3 REDIS_CONNECTSTRING=redis.contoso.com,ssl=true REDIS_PASSWORD=myredispwd ```
 
 ## Unattended installation of the Dialog Listener
 
@@ -211,8 +211,8 @@ Following are unattended installation parameters for the Dialog Listener.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

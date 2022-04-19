@@ -1,6 +1,7 @@
 ﻿---
-title: UserAgent element (EndPointType complexType) 
+title: UserAgent element (EndPointType complexType), schema C 
 TOCTitle: UserAgent element (EndPointType complexType)
+description: More information about UserAgent element (EndPointType complexType), schema C.
 ms:assetid: 8ecc855b-ef20-c8d3-303b-228414b5a957
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429337(v=office.16)
 ms:contentKeyID: 68250778
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# UserAgent element 
+# UserAgent element, schema C 
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

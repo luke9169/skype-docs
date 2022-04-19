@@ -1,3 +1,8 @@
+---
+title: replacesPhoneAudio
+description: replacesPhoneAudio represents a link to a resource that will be replaced, if this invitation succeeds.
+---
+
 # replacesPhoneAudio
 
  _**Applies to:** Skype for Business 2015_

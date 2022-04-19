@@ -1,15 +1,15 @@
 ---
-title: Debugging the SDN Interface Dialog Listener
+title: Debugging and Troubleshooting the SDN Interface Dialog Listener
 description: Learn how to troubleshoot installation of Dialog Listener
 ms.assetid: 0dade195-3eee-4b8d-8510-33bd78927442
 ---
 
 
-# Debugging the SDN Interface Dialog Listener
+# Debugging and Troubleshooting the SDN Interface Dialog Listener
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
-## Troubleshooting installation of Dialog Listener
+## Debugging and Troubleshooting installation of Dialog Listener
 
 DialogListener.exe is a Skype for Business Server application and uses SPL (MSPL) to connect to Skype for Business Server. Therefore, it must be registered with the Skype for Business Server. When an installation of the Dialog Listener fails, it may be due to the Dialog Listener not being properly registered. To troubleshoot, verify that the application is registered by running the `Get-CsServerApplication`Windows PowerShell cmdlet from the Skype for Business Server Management Shell.
   

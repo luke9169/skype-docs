@@ -1,5 +1,5 @@
 ﻿---
-title: DegradationMax element (QualityPropertiesType complexType) 
+title: DegradationMax element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: DegradationMax element
 ms:assetid: 400a1641-9c2e-5503-45c9-bacd0429e5ce
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149466(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationMax element 
+# DegradationMax element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

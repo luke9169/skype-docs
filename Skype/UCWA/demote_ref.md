@@ -1,3 +1,7 @@
+---
+title: demote reference
+description: Demotes the corresponding participant from the leader role to the attendee role.
+---
 # demote
 
  _**Applies to:** Skype for Business 2015_
@@ -24,21 +28,16 @@ The application can rely on the presence of this resource to determine whether t
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|

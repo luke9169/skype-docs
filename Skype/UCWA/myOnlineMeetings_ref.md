@@ -1,3 +1,8 @@
+---
+title: myOnlineMeetings
+description: Represents the set of myOnlineMeetings currently on the user's calendar.
+---
+
 # myOnlineMeetings
 
 **Applies to**: Skype for Business 2015

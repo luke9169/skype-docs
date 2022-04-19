@@ -1,3 +1,8 @@
+---
+title: stopMessaging
+description: stopMessaging stops the corresponding instant messaging modality that is currently connecting or connected.
+---
+
 # stopMessaging
 
  _**Applies to:** Skype for Business 2015_

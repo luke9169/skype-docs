@@ -1,3 +1,6 @@
+---
+title: Skype Web SDK property model
+---
 # Skype Web SDK property model
 
 

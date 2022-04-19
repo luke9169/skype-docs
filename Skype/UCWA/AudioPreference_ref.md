@@ -1,3 +1,7 @@
+---
+title: AudioPreference
+description: AudioPreference represents the preference for incoming audio.
+---
 
 # AudioPreference
 

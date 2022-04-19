@@ -1,3 +1,7 @@
+---
+title: defaultGroup reference
+description: Represents a persistent, system-created group where a user's contacts are placed by default.
+---
 # defaultGroup
 
  _**Applies to:** Skype for Business 2015_
@@ -45,9 +49,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -58,11 +61,12 @@ The user must have at least one of these scopes for operations on the resource t
 ### Added
 
 
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -97,12 +101,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |defaultGroup|High|people|Indicates that the default group has been updated. The application can decide to fetch theupdated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -133,12 +137,12 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contact|High|people|Indicates that a specific contact was deleted from this group. The application can decide tofetch the updated information.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {

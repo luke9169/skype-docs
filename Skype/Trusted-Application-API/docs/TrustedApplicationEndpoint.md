@@ -1,3 +1,6 @@
+---
+title: Set up a Trusted Application Endpoint
+---
 # Set up a Trusted Application Endpoint 
 
 Tenant Admin Provisioning includes setting up the trusted endpoints and tenant admin consent.

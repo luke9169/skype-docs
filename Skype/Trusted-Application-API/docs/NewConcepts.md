@@ -1,4 +1,7 @@
-# Key programming concepts
+---
+title: Trusted Application API Key programming concepts
+---
+# Trusted Application API Key programming concepts
 
 Trusted Application is modelled on the general principles, capabilities, API style, and API concepts of the Skype for Business [Unified Communications Web API (UCWA)](https://ucwa.skype.com). The [UCWA Key Programming Concepts](https://ucwa.skype.com/documentation/key-programming-concepts) gives you 
 detailed information about RESTful programming concepts. You should be familiar with these UCWA concepts to greatly simplify learning the **Trusted Application API**.

@@ -1,3 +1,8 @@
+---
+title: Get meeting join resources for Skype for Business Online meetings
+description: This article is about getting meeting join resources for Skype for Business Online meetings.
+---
+
 # Get meeting join resources for Skype for Business Online meetings
 
 Joining a Skype for Business Online meeting anonymously requires some additional steps that you don't need to do

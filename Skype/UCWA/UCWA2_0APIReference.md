@@ -1,3 +1,7 @@
+---
+title: UCWA 2.0 API reference
+description: Reference materials for UCWA programmers.
+---
 
 # UCWA 2.0 API reference
 Reference materials for UCWA programmers.

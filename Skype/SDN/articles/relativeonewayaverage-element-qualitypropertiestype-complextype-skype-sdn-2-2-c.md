@@ -1,5 +1,5 @@
 ﻿---
-title: RelativeOneWayAverage element (QualityPropertiesType complexType) 
+title: RelativeOneWayAverage element (QualityPropertiesType complexType) Schema C
 TOCTitle: RelativeOneWayAverage element
 ms:assetid: 55cbb16f-d11b-5985-feee-44031584c092
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404832(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelativeOneWayAverage element 
+# RelativeOneWayAverage element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +56,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

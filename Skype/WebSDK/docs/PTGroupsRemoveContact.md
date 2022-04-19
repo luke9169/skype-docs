@@ -1,4 +1,7 @@
-
+---
+title: Remove Contact
+description: Learn about removing a contact in Skype for Business 2015.
+---
 # Remove Contact
 
 

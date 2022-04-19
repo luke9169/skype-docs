@@ -1,3 +1,6 @@
+---
+title: Skype for Business - Webhooks - Events
+---
 # Webhooks (Events)
 
 In UCWA, a client had a pending GET parked on the server. The pending GET let a client receive any events from the UCWA server.

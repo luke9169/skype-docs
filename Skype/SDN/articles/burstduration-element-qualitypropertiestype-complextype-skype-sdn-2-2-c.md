@@ -1,5 +1,5 @@
 ﻿---
-title: BurstDuration element (QualityPropertiesType complexType) 
+title: BurstDuration element (QualityPropertiesType complexType) Schema C
 TOCTitle: BurstDuration element
 ms:assetid: 8b297755-1965-0a73-3295-68b3548f9d07
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404711(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BurstDuration element 
+# BurstDuration element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

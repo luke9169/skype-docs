@@ -1,4 +1,7 @@
-
+---
+title: Transport library
+description: Transport.js is a JavaScript library that helps make HTTP requests and assists with cross-domain communication.
+---
 # Transport library
 Transport.js is a JavaScript library that helps make HTTP requests and assists with cross-domain communication.
 

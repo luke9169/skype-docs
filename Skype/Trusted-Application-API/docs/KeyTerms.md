@@ -1,3 +1,6 @@
+---
+title: Skype for Business - Definition of key terms
+---
 # Definition of key terms
 
 ## Platform Service

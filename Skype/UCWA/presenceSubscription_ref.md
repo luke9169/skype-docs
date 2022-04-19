@@ -1,3 +1,8 @@
+---
+title: presenceSubscription
+description: presenceSubscription represents the subscription to a user-defined set of contacts.
+---
+
 # presenceSubscription
 
  _**Applies to:** Skype for Business 2015_

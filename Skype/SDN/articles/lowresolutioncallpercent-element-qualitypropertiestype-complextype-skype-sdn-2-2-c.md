@@ -1,5 +1,5 @@
 ﻿---
-title: LowResolutionCallPercent element (QualityPropertiesType complexType) 
+title: LowResolutionCallPercent element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: LowResolutionCallPercent element
 ms:assetid: c8c036e0-6579-f286-0523-84cf39516a4b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404786(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# LowResolutionCallPercent element 
+# LowResolutionCallPercent element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

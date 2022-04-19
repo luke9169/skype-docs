@@ -18,7 +18,7 @@ The host .NET application that you create performs tasks before, during, and aft
 
 Before the VoiceXML session:
 
-- Instantiate a [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) instance.
+- Instantiate a [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) instance.
 
 - Register for events that the **Browser** generates during a session.
 
@@ -44,7 +44,7 @@ The following example illustrates a typical instantiation and launching of an as
 
 ## Launching the browser
 
-In UCMA 5.0, there must always be an active call before the hosting .NET application launches the [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice). Normally, the call to the **Run(Uri, CookieContainer)** or **RunAsync(Uri, CookieContainer)** methods will be in the event handler for a received phone call.
+In UCMA 5.0, there must always be an active call before the hosting .NET application launches the [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice). Normally, the call to the **Run(Uri, CookieContainer)** or **RunAsync(Uri, CookieContainer)** methods will be in the event handler for a received phone call.
 
 > [!NOTE]
 > Only use the synchronous **Run(Uri, CookieContainer)** method for prototyping and experimentation. Do not use it in a production application.
@@ -55,7 +55,7 @@ The following sequence includes sample code that illustrates the typical tasks t
 
 1. Set up a UCMA 5.0 endpoint. (See ApplicationEndpoint.)
 
-2. Instantiate a VoiceXML [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) instance (*vxb* in the following sample) and add delegates to handle events that occur after an asynchronous Browser instance has been launched and the session is in progress.
+2. Instantiate a VoiceXML [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) instance (*vxb* in the following sample) and add delegates to handle events that occur after an asynchronous Browser instance has been launched and the session is in progress.
     
    ```csharp
     vxb = new Browser(); 
@@ -72,7 +72,7 @@ The following sequence includes sample code that illustrates the typical tasks t
     endpoint.RegisterForIncomingCall<AudioVideoCall>(AvCallReceived);
    ```
 
-4. Accept the call and subscribe to the **StateChanged** event in the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class. After the value of the [StateChanged](https://msdn.microsoft.com/library/hh365997\(v=office.16\)) event switches to **Active**, the .NET application can call the Browser’s **SetAudioVideoCall()** method. Then the .NET application can call either the **Run(Uri, CookieContainer)** or the **RunAsync(Uri, CookieContainer)** method.
+4. Accept the call and subscribe to the **StateChanged** event in the [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class. After the value of the [StateChanged](https://msdn.microsoft.com/library/hh365997\(v=office.16\)) event switches to **Active**, the .NET application can call the Browser’s **SetAudioVideoCall()** method. Then the .NET application can call either the **Run(Uri, CookieContainer)** or the **RunAsync(Uri, CookieContainer)** method.
     
    ```csharp
     // Declare an instance of AudioVideoCall that will be passed to SetAudioVideoCall.

@@ -1,5 +1,5 @@
 ﻿---
-title: Properties element (ErrorType complexType) 
+title: Properties element (ErrorType complexType) (Schema D)
 TOCTitle: Properties element (ErrorType complexType)
 ms:assetid: ad88f456-903f-ef5d-e802-c35efd1c826b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170947(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element 
+# Properties element (Schema D)
 
 (ErrorType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
