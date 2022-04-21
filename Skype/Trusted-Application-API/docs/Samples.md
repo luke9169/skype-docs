@@ -1,5 +1,5 @@
 ---
-title: Jump Start Development with Trusted Application API samples
+title: Jump Start Development with the API samples
 ---
 # Jump Start Development with Trusted Application API samples
 
